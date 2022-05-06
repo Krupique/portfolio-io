@@ -17,14 +17,14 @@ Repositório para o meu portfólio, onde coloco alguns dos meu trabalhos, as lin
 
 ## :rocket: Link
 
-Clique [aqui](https://christyschott.github.io/portfolio.github.io/) para abrir.
+Clique [aqui](https://krupique.github.io/portfolio-io/) para abrir.
 
 ## :telephone: Contato
 
-Para mais trabalhos acesse meu [LinkedIn](https://www.linkedin.com/in/christy-hauschild-0757431a4/) e outros repositórios aqui no GitHub. 
+Para mais trabalhos acesse meu [LinkedIn](https://www.linkedin.com/in/henrique-krupck//) e outros repositórios aqui no GitHub. 
 
-Meu e-mail: christyhauschild@gmail.com
+Meu e-mail: krupck@outlook.com
 
-Número de telefone: (51) 99658-5057
+Número de telefone: (18) 99675-5455
 
 
