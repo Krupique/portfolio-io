@@ -10318,7 +10318,7 @@ header.masthead .masthead-subheading2 {
 }
 
 #portfolio .portfolio-item .portfolio-caption .portfolio-caption-heading {
-    font-size: 1.5rem;
+    font-size: 0.9rem;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-weight: 700;
     margin-bottom: 0;
@@ -10335,14 +10335,14 @@ header.masthead .masthead-subheading2 {
 }
 
 .portfolio-modal .modal-content {
-    padding-top: 6rem;
-    padding-bottom: 6rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
     text-align: center;
 }
 
 .portfolio-modal .modal-content h2 {
-    font-size: 3rem;
-    line-height: 3rem;
+    font-size: 2rem;
+    line-height: 2rem;
 }
 
 .portfolio-modal .modal-content p.item-intro {
