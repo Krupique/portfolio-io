@@ -99,6 +99,20 @@
             <div class="row">
                 <div class="col-lg-4 col-sm-6 mb-4">
                     <div class="portfolio-item">
+                        <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio/spam2.png" alt="" /></a>
+                        <div class="portfolio-caption">
+                            <div class="portfolio-caption-heading">Classificando mensagens de SMS como SPAM ou HAM</div>
+                            <div class="portfolio-caption-subheading text-muted">Processamento de linguagem natural</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-sm-6 mb-4">
+                    <div class="portfolio-item">
                         <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
                             <div class="portfolio-hover">
                                 <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
@@ -110,6 +124,26 @@
                         </div>
                     </div>
                 </div>
+
+
+
+                <div class="col-lg-4 col-sm-6 mb-4">
+                    <div class="portfolio-item">
+                        <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio/houses.png" alt="" /></a>
+                        <div class="portfolio-caption">
+                            <div class="portfolio-caption-heading">Técnicas avançadas de regressão para prever o preço de casas</div>
+                            <div class="portfolio-caption-subheading text-muted">Análise de Dados e Machine Learning</div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row">
 
                 <div class="col-lg-4 col-sm-6 mb-4">
                     <div class="portfolio-item">
@@ -125,23 +159,6 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="portfolio-item">
-                        <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
-                            <div class="portfolio-hover">
-                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/houses.png" alt="" /></a>
-                        <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Prevendo o preço de casas utilizando técnicas avançadas de Regressão</div>
-                            <div class="portfolio-caption-subheading text-muted">Análise de Dados e Machine Learning</div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="row">
                 <div class="col-lg-4 col-sm-6 mb-4">
                     <div class="portfolio-item">
                         <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
@@ -169,13 +186,17 @@
                         </div>
                     </div>
                 </div>
+
+
+
+
             </div>
         </div>
 
 
 
         <div class="text-center">
-            <p class="section-subheading text-muted projetos">Para mais projetos visite o meu <a target="_blank" href="https://github.com/ChristySchott">GitHub</a>.</p>
+            <p class="section-subheading text-muted projetos">Para mais projetos visite o meu <a style="font-weight: bolder; text-decoration: underline;" target="_blank" href="https://github.com/ChristySchott">GitHub</a>.</p>
         </div>
 
         </div>
@@ -368,7 +389,7 @@
                     <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/0.png" alt="" /></div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4>2016 - 2021</h4>
+                            <h4>2016 - 2020</h4>
                             <h4 class="subheading">GRADUAÇÃO EM CIÊNCIA DA COMPUTAÇÃO</h4>
                         </div>
                         <div class="timeline-body">Graduação em Ciência da Computação pela Unoeste - Universidade do Oeste Paulista. Curso com notas máximas nas avaliações MEC e ENADE.
@@ -596,6 +617,41 @@
                                     <li>Bibliotecas: Pandas, Numpy e Seaborn</li>
                                     <!--<li><a target="_blank" href="https://github.com/Krupique">Site</a></li>-->
                                     <li><a target="_blank" href="https://github.com/Krupique/challenges-kaggle/tree/main/challenges/05_FootballDataset">Repositório</a></li>
+                                </ul>
+                                <button class="btn btn-primary" data-dismiss="modal" type="button"><i class="fas fa-times mr-1"></i>Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal"><img src="assets/img/close-icon.svg" width="25px" /></div>
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here-->
+                                <h5 class="text-uppercase">Classificando mensagens de SMS como SPAM ou HAM</h5>
+                                <p class="item-intro text-muted">Utilização das principais técnicas de processamento de linguagem natural com Machine Learning e Deep Learning</p>
+                                <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/spam2.png" alt="" />
+                                <p style="text-align: justify;">
+                                    Este projeto se propôs a realizar a classificação de mensagens de SMS como HAM ou SPAM. Foram utilizados os principais algoritmos de Machine Learning para processamento de linguagem natural, o Naive Bayes e também o XGBoost. Foi utilizado também as principais
+                                    arquiteturas de redes neurais profundas atualmente, a LSTM (long-short-term-memory) e a BERT (Bidirectional Encoder Representations from Transformers), arquitetura desenvolvida pela equipe do Google e utilizada atualmente
+                                    nos principais agentes de voz do mundo, ALEXA e GOOGLE ASSISTENTE.
+                                </p>
+
+                                <ul class="list-inline">
+                                    <!--<li>Data: Janeiro 2022</li>-->
+                                    <li>Tecnologias: Processamento de Linguagem Natural (Machine Learning e Deeo Learning)</li>
+                                    <li>Algoritmos: Naive Bayes, XGBoost, LSTM e BERT</li>
+                                    <!--<li><a target="_blank" href="https://github.com/Krupique">Site</a></li>-->
+                                    <li><a target="_blank" href="https://github.com/Krupique/challenges-kaggle/tree/main/challenges/07_SpamClassifier">Repositório</a></li>
+                                    <li><a target="_blank" href="https://www.kaggle.com/krupck">Perfil Kaggle</a></li>
                                 </ul>
                                 <button class="btn btn-primary" data-dismiss="modal" type="button"><i class="fas fa-times mr-1"></i>Close Project</button>
                             </div>
