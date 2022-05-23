@@ -17,7 +17,7 @@ Repositório para o meu portfólio, onde coloco alguns dos meu trabalhos, as lin
 
 ## :rocket: Link
 
-Clique [aqui](https://krupique.github.io/portfolio-io/) para abrir.
+Clique <a target="_blank" href="https://krupique.github.io/portfolio-io/">aqui</a> para abrir.
 
 ## :telephone: Contato
 
