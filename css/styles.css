@@ -10318,7 +10318,7 @@ header.masthead .masthead-subheading2 {
 }
 
 #portfolio .portfolio-item .portfolio-caption .portfolio-caption-heading {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-weight: 700;
     margin-bottom: 0;
@@ -10656,4 +10656,29 @@ section#contact form#contactForm :-ms-input-placeholder {
     text-align: center;
     font-size: 0.9rem;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.separator {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.separator::before,
+.separator::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid #AAA;
+}
+
+.separator::before {
+    margin-right: .25em;
+}
+
+.separator::after {
+    margin-left: .25em;
+}
+
+.separator p {
+    color: #555;
 }
