@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-<a href="#-projeto">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-layout">Contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a>Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a>Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a>Contato</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -17,7 +17,7 @@ Repositório para o meu portfólio, onde coloco alguns dos meu trabalhos, as lin
 
 ## :rocket: Link
 
-Clique [aqui](https://krupique.github.io/portfolio-io/) para abrir.
+Clique <a target="_blank" href="https://krupique.github.io/portfolio-io/">aqui</a> para abrir.
 
 ## :telephone: Contato
 
