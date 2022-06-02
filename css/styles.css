@@ -10220,9 +10220,44 @@ img::-moz-selection {
     }
 }
 
+@media (max-width: 1024px) {
+    header.masthead {
+        padding-bottom: 05rem;
+    }
+}
+
+@media (min-width: 1280px) {
+    header.masthead {
+        padding-bottom: 15rem;
+    }
+}
+
+@media (min-width: 1300px) {
+    header.masthead {
+        padding-bottom: 12rem;
+    }
+}
+
+@media (min-width: 1600px) {
+    header.masthead {
+        padding-bottom: 28rem;
+    }
+}
+
+@media (min-width: 1900px) {
+    header.masthead {
+        padding-bottom: 32rem;
+    }
+}
+
+@media (min-width: 2550px) {
+    header.masthead {
+        padding-bottom: 50rem;
+    }
+}
+
 header.masthead {
     padding-top: 10%;
-    padding-bottom: 10rem;
     text-align: left;
     color: #fff;
     /*krupck*/
