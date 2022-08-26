@@ -10780,3 +10780,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 .separator p {
     color: #555;
 }
+
+thead {
+    color: #eee;
+    font-size: 13px;
+}
