@@ -478,6 +478,28 @@
 
             </div>
 
+            <div class="separator">
+                <p>Outros projetos sobre outros assuntos</p>
+            </div>
+            <br/>
+
+            <div class="row">
+
+                <div class="col-lg-3 col-sm-4 mb-3">
+                    <div class="portfolio-item">
+                        <a class="portfolio-link" data-toggle="modal" href="#portfolioModal26">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio/compiladores.jpg" alt="" /></a>
+                        <div class="portfolio-caption">
+                            <div class="portfolio-caption-heading">Minha própria linguagem de Programação</div>
+                            <div class="portfolio-caption-subheading text-muted">Criação de Linguagem de programação, compiladores </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
 
 
@@ -3191,6 +3213,82 @@
 
                                 <ul class="list-inline">
                                     <li>Tecnologias: Dashboards, Data Visualization, DAX e PowerQuery M</li>
+                                </ul>
+                                <button class="btn btn-primary" data-dismiss="modal" type="button"><i class="fas fa-times mr-1"></i>Close Project</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal26" tabindex="0" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-dismiss="modal"><img src="assets/img/close-icon.svg" width="25px" /></div>
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <div class="modal-body">
+                                <!-- Project Details Go Here-->
+                                <h5 class="text-uppercase">Minha própria linguagem de Programação</h5>
+                                <p class="item-intro text-muted">Você sabe como é criado uma linguagem de programação?</p>
+
+                                <div style="text-align: justify; font-size: 0.9rem;">
+
+                                    <p style="text-align: justify;">
+                                        Linguagem de Programação é uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas (software). Um software pode ser desenvolvido para rodar em um computador, dispositivo móvel ou em qualquer equipamento
+                                        que permita sua execução.
+                                    </p>
+
+                                    <p style="text-align: justify;">
+                                        Existem várias linguagens e elas servem para muitos propósitos. Alguns óbvios, como criar um software, outros menos, como controlar um carro ou uma torradeira. Uma linguagem é desenvolvida utilizando outra linguagem, neste projeto eu escrevi a minha própria
+                                        linguagem utilizando Java como base, mas poderia ser escrita utilizando qualquer outra. A criação de uma linguagem segue as seguintes etapas:
+                                    </p>
+                                    <br/>
+                                    <ol>
+                                        <li>
+                                            <b>Definição da gramática</b>: Primeiro é necessário definir todos os comandos da linguagem, definir as regras first e follow, o que vem antes, o que vem depois.
+                                        </li>
+
+                                        <li>
+                                            <b>Análise Léxica</b>: Transformação e separação do texto de entrada em tokens, onde cada comando da linguagem tem seu respectivo token. Os sub-textos que não são comandos da linguagem foram separados em identificadores
+                                            ou valores de acordo com sua característica.
+
+                                        </li>
+
+                                        <li>
+                                            <b>Análise Sintática</b>: Validação dos tokens e verificação se os tokens estão de acordo com a BNF da linguagem, caso contrário a linguagem gerá um erro sintático. Exemplo: Se depois de um 'if' há um '(' e
+                                            depois um 'identificador' ou 'valor', e assim por diante.
+
+                                        </li>
+
+                                        <li>
+                                            <b>Análise Semântica</b>: Validação de tipos. Exemplo: Se um valor 'String' foi atribuido para uma variável 'int' gerá um erro semântico. Verificação de inicialização: Exemplo: Utilizar uma variável que ainda
+                                            não possui valor também gerá um erro semântico. Verificação de não utilização: Exemplo: Se uma variável foi declarada mas não possui valor irá gerar um aviso.
+                                        </li>
+
+                                        <li>
+                                            <b>Geração de Código Intermediário</b>: Essa etapa existe principalmente para transformar a linguagem de alto nível que é complexa para o montador e mal otimizada e transformar em algo mais simples para que
+                                            possa ser aplicado regras de otimização, além de facilitar na hora de converter para código de máquina.
+
+                                        </li>
+
+                                        <li>
+                                            <b>Otimização de Código Intermediário</b>: Otimização do código intermediário a fim de deixá-lo mais limpo e simples para a próxima etapa.
+                                        </li>
+
+                                        <li>
+                                            <b>Geração de Código de Máquina</b>: Converter o código de linguagem de montagem para 0s e 1s, que é basicamente o que a máquina entende.
+                                        </li>
+                                    </ol>
+
+                                </div>
+
+                                <ul class="list-inline">
+                                    <li>Tecnologias: Java, Expressões regulares, linguagens formais e autômatos</li>
+                                    <li><a href="https://github.com/Krupique/Compiladores" target="blank">Repositório do Projeto</a></li>
                                 </ul>
                                 <button class="btn btn-primary" data-dismiss="modal" type="button"><i class="fas fa-times mr-1"></i>Close Project</button>
                             </div>
