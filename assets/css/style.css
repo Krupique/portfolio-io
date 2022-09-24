@@ -530,6 +530,27 @@ p {
     font-size: 15px;
 }
 
+@media (max-width: 600px){
+    .hero-content h1 {
+        font-size: 20px;
+        font-weight: 700;
+        margin-bottom: 10px;
+        text-transform: uppercase;
+        color: #246b4b;
+    }
+
+    .hero-content p {
+        font-size: 12px;
+        letter-spacing: 1px;
+        margin-top: 0;
+        margin-bottom: 30px;
+        text-transform: capitalize;
+        color: #246b4b;
+        font-weight: 500;
+    }
+    
+}
+
 
 /*--------------------------------------------------------------
 # Breadcrumbs
@@ -1041,18 +1062,27 @@ p {
     text-decoration: underline;
 }
 
-.resume-image {
-    position: relative;
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    margin-left: -25px;
-    margin-top: -15px;
-    float: left;
-    border: 2px solid #246b4b;
-    /* 50% do tamanho do elemento pai */
-    z-index: 2;
+@media(min-width : 600px) {
+    .resume-image {
+        position: relative;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-left: -25px;
+        margin-top: -15px;
+        float: left;
+        border: 2px solid #246b4b;
+        z-index: 2;
+        /* 50% do tamanho do elemento pai */
+    }
 }
+
+@media(max-width : 600px){
+    .resume-image {
+        display: none;
+    }
+}
+
 
 .img-exp {
     z-index: 1;
