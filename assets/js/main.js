@@ -1,10 +1,6 @@
-/**
- * Template Name: Folio - v4.8.0
- * Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
- * Author: BootstrapMade.com
- * License: https://bootstrapmade.com/license/
- */
-(function() {
+var flagLanguage = 'BR';
+
+function screen_effects() {
     "use strict";
 
     /**
@@ -259,4 +255,6 @@
         }
     });
 
-})()
+}
+
+screen_effects();
