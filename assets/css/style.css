@@ -296,6 +296,15 @@ p {
     transition: 0.3s;
 }
 
+.navbar span{
+    justify-content: space-between;
+    padding: 5px 0 5px 15px;
+}
+
+.navbar span:hover{
+    cursor: pointer;
+}
+
 .navbar a i,
 .navbar a:focus i {
     font-size: 12px;
