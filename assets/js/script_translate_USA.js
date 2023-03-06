@@ -52,6 +52,8 @@ $(document).ready(function(){
     
         
         /*************** PORTFOLIO ***************/
+        $('#portfolio_h2').text('PORTFOLIO');
+        
         /*************** BLOG ***************/
         /*************** RESUME ***************/
         $('#resume_title').text("RESUME");
@@ -66,7 +68,7 @@ $(document).ready(function(){
         $('#education').text("Education");
         $('#education_h1').text("Bachelor of Computer Science");
         $('#education_em').text("University of West Paulista, Presidente Prudente, SP");
-        $('education_p1').text("During college I participated in programming marathons, Hackathons and various events in the field of computing.");
+        $('#education_p1').text("During college I participated in programming marathons, Hackathons and various events in the field of computing.");
         $('#education_p2').text("My graduation project was focused on Computer Vision, in which I applied the use of Artificial Intelligence to identify and monitor individuals through video and identify movements that could mean a possible criminal act.");
         var link_article = '<em><a target="_blank" id="education_a1" href="assets/docs/ArtigoFinal.pdf">Use of Deep Learning applied in the recognition of human actions from high resolution videos in order to identify suspicious movements</a></em>';
         $('#education_p3').html("You can read my scientific article here: " + link_article);
@@ -91,7 +93,13 @@ $(document).ready(function(){
 
 
         /*************** COURSES ***************/
-
+        $('#courses').text('Courses');
+        $('#courses_1_h4').text('Data Analysis with Python');
+        $('#courses_1_h5').text('(In progress)');
+        $('#courses_1_em').text('DSA - Data Science Academy');
+        $('#courses_1_p1').text('Course 3/3 of the Data Science Academy Data Analyst Training');
+        $('#courses_1_p2').text('During the training students will acquire fundamental skills of a Data Analyst: how to handle missing values, how to clean and process data, how to perform descriptive statistical analysis, how to apply binarization and encoding of categorical variables, attribute engineering and much more.');
+        $('#courses_1_a').text('Go to the course');
         /*************** CONTACT ***************/
 
 
