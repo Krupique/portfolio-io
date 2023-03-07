@@ -100,6 +100,38 @@ $(document).ready(function(){
         $('#courses_1_p1').text('Course 3/3 of the Data Science Academy Data Analyst Training');
         $('#courses_1_p2').text('During the training students will acquire fundamental skills of a Data Analyst: how to handle missing values, how to clean and process data, how to perform descriptive statistical analysis, how to apply binarization and encoding of categorical variables, attribute engineering and much more.');
         $('#courses_1_a').text('Go to the course');
+
+
+        $('#courses_2_h4').text('Data Engineering with Hadoop and Spark');
+        $('#courses_2_h5').text('October 2022');
+        $('#courses_2_em').text('DSA - Data Science Academy');
+        $('#courses_2_p1').text('Course 3/3 of Data Science Academy Data Scientist Training');
+        $('#courses_2_p2').text('This is a course focused on Data Engineering. Storing Big Data is a challenge, given its characteristics: data generated at high speed, high volume and great variety. This course teaches how to create a Hadoop cluster, how to configure a Hadoop cluster, how to apply mapping/reduction techniques on data. In addition, it also shows how to create a Data Hub with Hadoop and HBase and apply ETL to load Hadoop data. Topics involved: Hadoop, Cluster, ETL, Machine Learning, Spark, Amazon EMR, Data Mining.');
+        $('#courses_2_a').text('Go to the course');
+
+
+        $('#courses_3_h4').text('');
+        $('#courses_3_h5').text('');
+        $('#courses_3_em').text('');
+        $('#courses_3_p1').text('');
+        $('#courses_3_p2').text('');
+        $('#courses_3_a').text('Go to the course');
+
+
+        $('#courses_4_h4').text('');
+        $('#courses_4_h5').text('');
+        $('#courses_4_em').text('');
+        $('#courses_4_p1').text('');
+        $('#courses_4_p2').text('');
+        $('#courses_4_a').text('Go to the course');
+
+
+        $('#courses_5_h4').text('');
+        $('#courses_5_h5').text('');
+        $('#courses_5_em').text('');
+        $('#courses_5_p1').text('');
+        $('#courses_5_p2').text('');
+        $('#courses_5_a').text('Go to the course');
         /*************** CONTACT ***************/
 
 
