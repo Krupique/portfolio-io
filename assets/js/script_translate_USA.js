@@ -119,11 +119,13 @@ $(document).ready(function(){
         $('#courses_3_a').text('Go to the course');
 
 
-        $('#courses_4_h4').text('');
-        $('#courses_4_h5').text('');
-        $('#courses_4_em').text('');
-        $('#courses_4_p1').text('');
-        $('#courses_4_p2').text('');
+        $('#courses_4_h4').text('Deploying Machine Learning Models');
+        $('#courses_4_h5').text('July 2022');
+        $('#courses_4_em').text('DSA - Data Science Academy');
+        $('#courses_4_p1').text('Course 3/4 of the Data Science Academy Machine Learning Engineer Training');
+        $('#courses_4_p2').text('This course is dedicated to Deploying Machine Learning models. The course covers AWS Cloud Environment, Google Cloud Platform and Azure and how to use AWS SageMaker to create an API for ML models. The deployment will be done with different tools for local or cloud consumption, such as TensorFlow, MLFlow, KubeFlow, MLeap, Spark MLLib and Scikit-Learn. Plus Keras, PyTorch and MxNet with Gluon, as well as Databricks, Docker and Streamlit. Flask and Django will also be covered in this course.');
+        courses_4_ul = "<li>AWS, GCP, and Azure</li><li>AWS SageMaker</li><li>TensorFlow, MLFlow, KubeFlow</li><li>MLeap, Spark MLLib, Scikit-Learning</li><li>Keras, Pytorch, MXNet with Gluon</li><li>Databricks, Docker and Streamlit</li><li>Flask and Django</li>";
+        $('#courses_4_ul').html(courses_4_ul);
         $('#courses_4_a').text('Go to the course');
 
 
@@ -133,6 +135,22 @@ $(document).ready(function(){
         $('#courses_5_p1').text('');
         $('#courses_5_p2').text('');
         $('#courses_5_a').text('Go to the course');
+
+
+        $('#courses_6_h4').text('');
+        $('#courses_6_h5').text('');
+        $('#courses_6_em').text('');
+        $('#courses_6_p1').text('');
+        $('#courses_6_p2').text('');
+        $('#courses_6_a').text('Go to the course');
+
+
+        $('#courses_7_h4').text('');
+        $('#courses_7_h5').text('');
+        $('#courses_7_em').text('');
+        $('#courses_7_p1').text('');
+        $('#courses_7_p2').text('');
+        $('#courses_7_a').text('Go to the course');
         /*************** CONTACT ***************/
 
 
