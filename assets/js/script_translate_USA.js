@@ -129,11 +129,13 @@ $(document).ready(function(){
         $('#courses_4_a').text('Go to the course');
 
 
-        $('#courses_5_h4').text('');
-        $('#courses_5_h5').text('');
-        $('#courses_5_em').text('');
-        $('#courses_5_p1').text('');
-        $('#courses_5_p2').text('');
+        $('#courses_5_h4').text('Business Analytics with R and Python');
+        $('#courses_5_h5').text('July 2022');
+        $('#courses_5_em').text('DSA - Data Science Academy');
+        $('#courses_5_p1').text('Data Science Academy Data Scientist Training Course 5/6');
+        $('#courses_5_p2').text('Business knowledge is one of the main skills of the Data Scientist. The objective of this course is to apply analytical techniques in business areas such as Marketing, Finance and HR, collecting data, defining metrics, creating models and extracting insights that generate value for companies and support decision-making.');
+        courses_5_ul = "<li>Predictive analytics</li><li>Marketing Analytics</li><li>HR Analytics</li><li>Financial Analytics</li><li>Social Network Analytics</li>";
+        $('#courses_5_ul').html(courses_5_ul);
         $('#courses_5_a').text('Go to the course');
 
 
