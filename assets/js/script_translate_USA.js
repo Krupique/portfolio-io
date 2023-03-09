@@ -139,11 +139,12 @@ $(document).ready(function(){
         $('#courses_5_a').text('Go to the course');
 
 
-        $('#courses_6_h4').text('');
-        $('#courses_6_h5').text('');
-        $('#courses_6_em').text('');
-        $('#courses_6_p1').text('');
-        $('#courses_6_p2').text('');
+        $('#courses_6_h4').text('Profession Data Analyst');
+        $('#courses_6_h5').text('July 2022');
+        $('#courses_6_em').text('EBAC - British School of the Creative Arts');
+        $('#courses_6_p1').text('Online course by the British School of Creative Arts and Technology teaching platform. The course covers everything from basics in Python to advanced topics in Machine Learning, Working in the Cloud, Big Data and Data Lake on AWS.');
+        courses_6_ul = "<li>Data Analysis</li><li>Machine Learning</li><li>SQL Language</li><li>Visualize Data</li><li>Work with Big Data</li><li>Team Work with Git and Github</li>";
+        $('#courses_6_ul').html(courses_6_ul);
         $('#courses_6_a').text('Go to the course');
 
 
