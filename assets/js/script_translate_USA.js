@@ -184,22 +184,21 @@ $(document).ready(function(){
         $('#courses_10_a').text('Go to the course');
 
 
-        $('#courses_11_h4').text('');
-        $('#courses_11_h5').text('');
-        $('#courses_11_em').text('');
-        $('#courses_11_p1').text('');
-        $('#courses_11_p2').text('');
-        courses_11_ul = '';
+        $('#courses_11_h4').text('Big Data Real-Time Analytics with Python and Spark');
+        $('#courses_11_h5').text('April 2022');
+        $('#courses_11_em').text('DSA - Data Science Academy');
+        $('#courses_11_p1').text('Course 2/6 of the Data Science Academy Data Scientist Training');
+        $('#courses_11_p2').text('The objective of this course is to bring data analysis techniques, in batch and in real time, with two of the main tools used by Data Scientists: Python Language and Apache Spark.');
+        courses_11_ul = '<li>Introduction to Apache Spark</li><li>Spark SQL</li><li>Spark pair RDD, Accumulators and Broadcast</li><li>Introduction to Spark Streaming</li><li>Machine Learning algorithms using MLlib: Naive Bayes, Decision Tree, Random Forest, Regression, K-Means</li><li>Creation of Recommendation Systems</li>';
         $('#courses_11_ul').html(courses_11_ul);
         $('#courses_11_a').text('Go to the course');
 
 
-        $('#courses_12_h4').text('');
-        $('#courses_12_h5').text('');
-        $('#courses_12_em').text('');
-        $('#courses_12_p1').text('');
-        $('#courses_12_p2').text('');
-        courses_12_ul = '';
+        $('#courses_12_h4').text('Data Scientist Training with Python and R [2022]');
+        $('#courses_12_h5').text('February 2022');
+        $('#courses_12_em').text('Udemy');
+        $('#courses_12_p1').text('Complete course on Data Science. Creating predictive models with Deep Learning, RNNs and Time Series. Concepts of text mining, graphs, project management, NoSQL database, basic and advanced statistics and much more.');
+        courses_12_ul = '<li>Introduction to Python and R languages</li><li>Cleaning, treatment and Exploratory Analysis of Data</li><li>Graphics, Visualization and Dashboards</li><li>Statistics I and II</li><li>Linear Regression, Classification, Time Series</li><li>Neural Networks and Deep Learning</li><li>Graph Theory</li><li>SQL and NoSQL</li><li>Introduction to Spark with Databricks</li>';
         $('#courses_12_ul').html(courses_12_ul);
         $('#courses_12_a').text('Go to the course');
 
@@ -212,6 +211,26 @@ $(document).ready(function(){
         courses_13_ul = '';
         $('#courses_13_ul').html(courses_13_ul);
         $('#courses_13_a').text('Go to the course');
+
+
+        $('#courses_14_h4').text('');
+        $('#courses_14_h5').text('');
+        $('#courses_14_em').text('');
+        $('#courses_14_p1').text('');
+        $('#courses_14_p2').text('');
+        courses_14_ul = '';
+        $('#courses_14_ul').html(courses_14_ul);
+        $('#courses_14_a').text('Go to the course');
+
+
+        $('#courses_14_h4').text('');
+        $('#courses_14_h5').text('');
+        $('#courses_14_em').text('');
+        $('#courses_14_p1').text('');
+        $('#courses_14_p2').text('');
+        courses_14_ul = '';
+        $('#courses_14_ul').html(courses_14_ul);
+        $('#courses_14_a').text('Go to the course');
 
 
         /*************** CONTACT ***************/
