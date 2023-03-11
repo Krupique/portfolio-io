@@ -176,13 +176,11 @@ $(document).ready(function(){
         $('#courses_9_a').text('Go to the course');
 
 
-        $('#courses_10_h4').text('');
-        $('#courses_10_h5').text('');
-        $('#courses_10_em').text('');
-        $('#courses_10_p1').text('');
-        $('#courses_10_p2').text('');
-        courses_10_ul = '';
-        $('#courses_10_ul').html(courses_10_ul);
+        $('#courses_10_h4').text('1st Business Games Tournament - INOVA');
+        $('#courses_10_h5').text('April 2022');
+        $('#courses_10_em').text('Inova Prudente');
+        $('#courses_10_p1').text("With the aim of encouraging the learning of business concepts, in addition to generating connections between participants, the Mayor's Office of Presidente Prudente, through the Inova Foundation, launched for the first time in the region, an edition of a Business Games Tournament.");
+        $('#courses_10_p2').text('The objective of the competition was to allow participants to simulate the management of a company in a highly competitive and interactive environment, making different business decisions based on news, reports and management charts.');
         $('#courses_10_a').text('Go to the course');
 
 
