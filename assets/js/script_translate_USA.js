@@ -166,12 +166,12 @@ $(document).ready(function(){
         $('#courses_8_a').text('Go to the course');
 
 
-        $('#courses_9_h4').text('');
-        $('#courses_9_h5').text('');
-        $('#courses_9_em').text('');
-        $('#courses_9_p1').text('');
-        $('#courses_9_p2').text('');
-        courses_9_ul = '';
+        $('#courses_9_h4').text('Data Visualization and Dashboard Design');
+        $('#courses_9_h5').text('June 2022');
+        $('#courses_9_em').text('DSA - Data Science Academy');
+        $('#courses_9_p1').text('Data Science Academy Data Scientist Training Course 6/6');
+        $('#courses_9_p2').text('Data Science Academy Data Scientist Training Course. This is a course that teaches students to tell a story from data, using presentation techniques, design, dashboards and visualization strategies in various tools. Telling the story behind data is a skill that can be learned and practiced.');
+        courses_9_ul = '<li>Presentation Techniques</li><li>Design Thinking</li><li>Visual organization</li><li>Dashboard and Charts</li><li>View Tools</li>';
         $('#courses_9_ul').html(courses_9_ul);
         $('#courses_9_a').text('Go to the course');
 
@@ -184,6 +184,36 @@ $(document).ready(function(){
         courses_10_ul = '';
         $('#courses_10_ul').html(courses_10_ul);
         $('#courses_10_a').text('Go to the course');
+
+
+        $('#courses_11_h4').text('');
+        $('#courses_11_h5').text('');
+        $('#courses_11_em').text('');
+        $('#courses_11_p1').text('');
+        $('#courses_11_p2').text('');
+        courses_11_ul = '';
+        $('#courses_11_ul').html(courses_11_ul);
+        $('#courses_11_a').text('Go to the course');
+
+
+        $('#courses_12_h4').text('');
+        $('#courses_12_h5').text('');
+        $('#courses_12_em').text('');
+        $('#courses_12_p1').text('');
+        $('#courses_12_p2').text('');
+        courses_12_ul = '';
+        $('#courses_12_ul').html(courses_12_ul);
+        $('#courses_12_a').text('Go to the course');
+
+
+        $('#courses_13_h4').text('');
+        $('#courses_13_h5').text('');
+        $('#courses_13_em').text('');
+        $('#courses_13_p1').text('');
+        $('#courses_13_p2').text('');
+        courses_13_ul = '';
+        $('#courses_13_ul').html(courses_13_ul);
+        $('#courses_13_a').text('Go to the course');
 
 
         /*************** CONTACT ***************/
