@@ -156,14 +156,34 @@ $(document).ready(function(){
         $('#courses_7_a').text('Go to the course');
 
 
-        $('#courses_8_h4').text('');
-        $('#courses_8_h5').text('');
-        $('#courses_8_em').text('');
-        $('#courses_8_p1').text('');
-        $('#courses_8_p2').text('');
-        courses_8_ul = ''
+        $('#courses_8_h4').text('Statistical Analysis and Predictive Modeling of Time Series');
+        $('#courses_8_h5').text('June 2022');
+        $('#courses_8_em').text('DSA - Data Science Academy');
+        $('#courses_8_p1').text('This course aimed to present and exemplify in detail all the main concepts of Time Series. In addition, the main predictive modeling algorithms for this topic were covered, such as: ARIMA models, deep neural networks, libraries developed by the Facebook and Amazon team, and much more.');
+        $('#courses_8_p2').text('Course available only for those who purchased any other paid course on the platform.');
+        courses_8_ul = '<li>Basic Concepts</li><li>Checking Stationarity</li><li>Smoothing</li><li>ARMA, ARIMA, SARIMA templates</li><li>Facebook Prophet</li><li>Deep Learning with LSTM</li><li>Deep Learning with DeepAR</li>';
         $('#courses_8_ul').html(courses_8_ul);
         $('#courses_8_a').text('Go to the course');
+
+
+        $('#courses_9_h4').text('');
+        $('#courses_9_h5').text('');
+        $('#courses_9_em').text('');
+        $('#courses_9_p1').text('');
+        $('#courses_9_p2').text('');
+        courses_9_ul = '';
+        $('#courses_9_ul').html(courses_9_ul);
+        $('#courses_9_a').text('Go to the course');
+
+
+        $('#courses_10_h4').text('');
+        $('#courses_10_h5').text('');
+        $('#courses_10_em').text('');
+        $('#courses_10_p1').text('');
+        $('#courses_10_p2').text('');
+        courses_10_ul = '';
+        $('#courses_10_ul').html(courses_10_ul);
+        $('#courses_10_a').text('Go to the course');
 
 
         /*************** CONTACT ***************/
