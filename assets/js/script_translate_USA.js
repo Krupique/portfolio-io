@@ -146,14 +146,26 @@ $(document).ready(function(){
         courses_6_ul = "<li>Data Analysis</li><li>Machine Learning</li><li>SQL Language</li><li>Visualize Data</li><li>Work with Big Data</li><li>Team Work with Git and Github</li>";
         $('#courses_6_ul').html(courses_6_ul);
         $('#courses_6_a').text('Go to the course');
-
-
-        $('#courses_7_h4').text('');
-        $('#courses_7_h5').text('');
-        $('#courses_7_em').text('');
-        $('#courses_7_p1').text('');
-        $('#courses_7_p2').text('');
+        
+        
+        $('#courses_7_h4').text('Soft Skills - Developing behavioral skills');
+        $('#courses_7_h5').text('June 2022');
+        $('#courses_7_em').text('DSA - Data Science Academy');
+        $('#courses_7_p1').text('Although technical knowledge is essential for anyone working with technology, behavioral skills can determine professional success. The course covers topics such as: Assertive Communication, Teamwork, Ownership & Accountability, Creativity, Agile Methodologies (SCRUM), Diversity and Multidisciplinary Teams.');
+        $('#courses_7_p2').text('Course available only for those who purchased any other paid course on the platform.');
         $('#courses_7_a').text('Go to the course');
+
+
+        $('#courses_8_h4').text('');
+        $('#courses_8_h5').text('');
+        $('#courses_8_em').text('');
+        $('#courses_8_p1').text('');
+        $('#courses_8_p2').text('');
+        courses_8_ul = ''
+        $('#courses_8_ul').html(courses_8_ul);
+        $('#courses_8_a').text('Go to the course');
+
+
         /*************** CONTACT ***************/
 
 
