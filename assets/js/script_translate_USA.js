@@ -203,12 +203,12 @@ $(document).ready(function(){
         $('#courses_12_a').text('Go to the course');
 
 
-        $('#courses_13_h4').text('');
-        $('#courses_13_h5').text('');
-        $('#courses_13_em').text('');
-        $('#courses_13_p1').text('');
-        $('#courses_13_p2').text('');
-        courses_13_ul = '';
+        $('#courses_13_h4').text('Machine Learning');
+        $('#courses_13_h5').text('March 2022');
+        $('#courses_13_em').text('DSA - Data Science Academy');
+        $('#courses_13_p1').text('Data Science Academy Data Scientist Training Course 4/6');
+        $('#courses_13_p2').text('The objective of this course is to bring the construction of Machine Learning models. In addition to studying machine learning theory, it is covered in practice how algorithms work in different projects.');
+        courses_13_ul = '<li>Features Engineering with Categorical Variables in Practice</li><li>Algorithms: KNN, Naive Bayes, Linear Regression, Logistic Regression, XGB, SVM, Decision Trees</li><li>Dimensionality Reduction with PCA</li><li>Natural Language Processing</li><li>TensorFlow and PyTorch for Deep Learning</li><li>Deploying a Machine Learning model</li>';
         $('#courses_13_ul').html(courses_13_ul);
         $('#courses_13_a').text('Go to the course');
 
