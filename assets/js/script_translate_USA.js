@@ -256,24 +256,20 @@ $(document).ready(function(){
         $('#courses_18_a').text('Go to the course');
 
 
-        $('#courses_19_h4').text('');
-        $('#courses_19_h5').text('');
-        $('#courses_19_em').text('');
-        $('#courses_19_p1').text('');
-        courses_19_ul = '';
-        $('#courses_19_ul').html(courses_19_ul);
+        $('#courses_19_h4').text('Git and contributions to Open Source projects Udemy');
+        $('#courses_19_h5').text('June 2019');
+        $('#courses_19_em').text('Udemy');
+        $('#courses_19_p1').text('Course that covers from the most basic concepts to the most advanced about version control, tools like Git and GitHub, and how to contribute to Open Source projects.');
         $('#courses_19_a').text('Go to the course');
 
 
-        $('#courses_20_h4').text('');
-        $('#courses_20_h5').text('');
-        $('#courses_20_em').text('');
-        $('#courses_20_p1').text('');
-        courses_20_ul = '';
+        $('#courses_20_h4').text('Complete web 2.0 development course 2018 Python and Django');
+        $('#courses_20_h5').text('April 2019');
+        $('#courses_20_em').text('Udemy');
+        $('#courses_20_p1').text('The course addresses theoretical concepts about the Web, from the moment a user types the URL into the browser until the moment the site/system loads in the browser. The course brings several practical projects using the programming languages');
+        courses_20_ul = '<li>Computer Network Theory</li><li>HTML and CSS </li><li>Javascript</li><li>Python and Django</li>';
         $('#courses_20_ul').html(courses_20_ul);
         $('#courses_20_a').text('Go to the course');
-
-
 
         /*************** CONTACT ***************/
 
