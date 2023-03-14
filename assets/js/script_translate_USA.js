@@ -240,11 +240,11 @@ $(document).ready(function(){
         $('#courses_16_a').text('Go to the course');
         
                 
-        $('#courses_17_h4').text('');
-        $('#courses_17_h5').text('');
-        $('#courses_17_em').text('');
-        $('#courses_17_p1').text('');
-        courses_17_ul = '';
+        $('#courses_17_h4').text('Python Fundamentals for Data Analysis');
+        $('#courses_17_h5').text('February 2021');
+        $('#courses_17_em').text('DSA - Data Science Academy');
+        $('#courses_17_p1').text('This course covers the basic concepts and fundamentals of the Python programming language. In addition, the course covers the main Python libraries for data analysis and Data Science projects.');
+        courses_17_ul = '<li>Introduction to Python</li><li>Main packages for analysis: Pandas, Numpy, Matplotlib, among others.</li><li>Object Orientation</li><li>Introduction to Tensorflow</li ><li>Introduction to Machine Learning</li><li>Introduction to Deep Learning</li><li>Web Scraping</li>';
         $('#courses_17_ul').html(courses_17_ul);
         $('#courses_17_a').text('Go to the course');
 
