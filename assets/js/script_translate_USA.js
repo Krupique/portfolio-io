@@ -249,13 +249,29 @@ $(document).ready(function(){
         $('#courses_17_a').text('Go to the course');
 
 
-        $('#courses_18_h4').text('');
-        $('#courses_18_h5').text('');
-        $('#courses_18_em').text('');
-        $('#courses_18_p1').text('');
-        courses_18_ul = '';
-        $('#courses_18_ul').html(courses_18_ul);
+        $('#courses_18_h4').text('Big Data Fundamentals 2.0');
+        $('#courses_18_h5').text('February 2020');
+        $('#courses_18_em').text('DSA - Data Science Academy');
+        $('#courses_18_p1').text('The Big Data Fundamentals course theoretically addresses several concepts about Big Data, how it is used in the corporate environment and how it is impacting the world today.');
         $('#courses_18_a').text('Go to the course');
+
+
+        $('#courses_19_h4').text('');
+        $('#courses_19_h5').text('');
+        $('#courses_19_em').text('');
+        $('#courses_19_p1').text('');
+        courses_19_ul = '';
+        $('#courses_19_ul').html(courses_19_ul);
+        $('#courses_19_a').text('Go to the course');
+
+
+        $('#courses_20_h4').text('');
+        $('#courses_20_h5').text('');
+        $('#courses_20_em').text('');
+        $('#courses_20_p1').text('');
+        courses_20_ul = '';
+        $('#courses_20_ul').html(courses_20_ul);
+        $('#courses_20_a').text('Go to the course');
 
 
 
