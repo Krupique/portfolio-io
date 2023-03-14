@@ -213,24 +213,50 @@ $(document).ready(function(){
         $('#courses_13_a').text('Go to the course');
 
 
-        $('#courses_14_h4').text('');
-        $('#courses_14_h5').text('');
-        $('#courses_14_em').text('');
-        $('#courses_14_p1').text('');
-        $('#courses_14_p2').text('');
-        courses_14_ul = '';
+        $('#courses_14_h4').text('TensorFlow: Machine Learning and Deep Learning with Python');
+        $('#courses_14_h5').text('February 2022');
+        $('#courses_14_em').text('Udemy');
+        $('#courses_14_p1').text('Learn in theory and practice how to build artificial neural networks to solve real everyday problems.');
+        courses_14_ul = '<li>Basic Syntax</li><li>Regression and Classification</li><li>Artificial, Convolutional and Recurrent Neural Networks</li><li>Autoencoders</li><li>Generative Adversarial Networks (GANs) </li>';
         $('#courses_14_ul').html(courses_14_ul);
         $('#courses_14_a').text('Go to the course');
 
 
-        $('#courses_14_h4').text('');
-        $('#courses_14_h5').text('');
-        $('#courses_14_em').text('');
-        $('#courses_14_p1').text('');
-        $('#courses_14_p2').text('');
-        courses_14_ul = '';
-        $('#courses_14_ul').html(courses_14_ul);
-        $('#courses_14_a').text('Go to the course');
+        $('#courses_15_h4').text('Tensorflow 2.0: A Complete About the New Tensorflow');
+        $('#courses_15_h5').text('December 2021');
+        $('#courses_15_em').text('Udemy');
+        $('#courses_15_p1').text('A guide to the main features of Tensorflow 2.x. Implementations of Artificial Neural Networks, CNNs, Recurrent Neural Networks and other projects.');
+        courses_15_ul = '<li>Introduction to Tensorflow</li><li>Artificial, Convolutional and Recurrent Neural Networks</li><li>Transfer Learning and Fine Tuning</li><li>Reinforcement Learning</li><li> Tensorflow Lite</li>';
+        $('#courses_15_ul').html(courses_15_ul);
+        $('#courses_15_a').text('Go to the course');
+
+        
+        $('#courses_16_h4').text('');
+        $('#courses_16_h5').text('');
+        $('#courses_16_em').text('');
+        $('#courses_16_p1').text('');
+        courses_16_ul = '';
+        $('#courses_16_ul').html(courses_16_ul);
+        $('#courses_16_a').text('Go to the course');
+
+
+        $('#courses_17_h4').text('');
+        $('#courses_17_h5').text('');
+        $('#courses_17_em').text('');
+        $('#courses_17_p1').text('');
+        courses_17_ul = '';
+        $('#courses_17_ul').html(courses_17_ul);
+        $('#courses_17_a').text('Go to the course');
+
+
+        $('#courses_18_h4').text('');
+        $('#courses_18_h5').text('');
+        $('#courses_18_em').text('');
+        $('#courses_18_p1').text('');
+        courses_18_ul = '';
+        $('#courses_18_ul').html(courses_18_ul);
+        $('#courses_18_a').text('Go to the course');
+
 
 
         /*************** CONTACT ***************/
