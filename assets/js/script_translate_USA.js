@@ -229,17 +229,17 @@ $(document).ready(function(){
         courses_15_ul = '<li>Introduction to Tensorflow</li><li>Artificial, Convolutional and Recurrent Neural Networks</li><li>Transfer Learning and Fine Tuning</li><li>Reinforcement Learning</li><li> Tensorflow Lite</li>';
         $('#courses_15_ul').html(courses_15_ul);
         $('#courses_15_a').text('Go to the course');
-
         
-        $('#courses_16_h4').text('');
-        $('#courses_16_h5').text('');
-        $('#courses_16_em').text('');
-        $('#courses_16_p1').text('');
-        courses_16_ul = '';
+        
+        $('#courses_16_h4').text('Face and Object Recognition with Python and Dlib');
+        $('#courses_16_h5').text('November 2021');
+        $('#courses_16_em').text('Udemy');
+        $('#courses_16_p1').text('The course teaches how to detect faces using haarcascade, HOG and convolutional neural networks (CNN) techniques.');
+        courses_16_ul = '<li>Face detection with Haarcascade</li><li>OpenCV</li><li>HOG, KNN, Yalesface and SVM algorithms</li><li>Dlib library</li><li>Hog x CNN </li>';
         $('#courses_16_ul').html(courses_16_ul);
         $('#courses_16_a').text('Go to the course');
-
-
+        
+                
         $('#courses_17_h4').text('');
         $('#courses_17_h5').text('');
         $('#courses_17_em').text('');
