@@ -272,8 +272,12 @@ $(document).ready(function(){
         $('#courses_20_a').text('Go to the course');
 
         /*************** CONTACT ***************/
+        $('#contact_address').text('Address');
+        $('#contact_phone').text('Phone');
 
 
+
+        /*************** OTHERS ***************/
         screen_effects();
 
 
