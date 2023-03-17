@@ -207,11 +207,11 @@ $(document).ready(function(){
         $('#courses_14_a').text('Ir até o curso');
 
 
-        $('#courses_15_h4').text('Tensorflow 2.0: A Complete About the New Tensorflow');
-        $('#courses_15_h5').text('December 2021');
+        $('#courses_15_h4').text('TENSORFLOW 2.0: UM COMPLETO SOBRE O NOVO TENSORFLOW');
+        $('#courses_15_h5').text('Dezembro 2021');
         $('#courses_15_em').text('Udemy');
-        $('#courses_15_p1').text('A guide to the main features of Tensorflow 2.x. Implementations of Artificial Neural Networks, CNNs, Recurrent Neural Networks and other projects.');
-        courses_15_ul = '<li>Introduction to Tensorflow</li><li>Artificial, Convolutional and Recurrent Neural Networks</li><li>Transfer Learning and Fine Tuning</li><li>Reinforcement Learning</li><li> Tensorflow Lite</li>';
+        $('#courses_15_p1').text('Um guia sobre as principais funcionalidades do Tensorflow 2.x. Implementações de Redes Neurais Artificiais, CNNs, Redes Neurais Recorrentes e outros projetos.');
+        courses_15_ul = '<li>Introdução ao Tensorflow</li><li>Redes Neurais Artificiais, Convolucionais e Recorrentes</li><li>Transferência de Aprendizado e Fine Tunning</li><li>Aprendizado por Reforço</li><li>Tensorflow Lite</li>';
         $('#courses_15_ul').html(courses_15_ul);
         $('#courses_15_a').text('Ir até o curso');
         
