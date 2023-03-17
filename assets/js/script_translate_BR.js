@@ -169,21 +169,21 @@ $(document).ready(function(){
         $('#courses_10_a').text('Ir até o curso');
 
 
-        $('#courses_11_h4').text('Big Data Real-Time Analytics with Python and Spark');
-        $('#courses_11_h5').text('April 2022');
+        $('#courses_11_h4').text('BIG DATA REAL-TIME ANALYTICS COM PYTHON E SPARK');
+        $('#courses_11_h5').text('Abril 2022');
         $('#courses_11_em').text('DSA - Data Science Academy');
-        $('#courses_11_p1').text('Course 2/6 of the Data Science Academy Data Scientist Training');
-        $('#courses_11_p2').text('The objective of this course is to bring data analysis techniques, in batch and in real time, with two of the main tools used by Data Scientists: Python Language and Apache Spark.');
-        courses_11_ul = '<li>Introduction to Apache Spark</li><li>Spark SQL</li><li>Spark pair RDD, Accumulators and Broadcast</li><li>Introduction to Spark Streaming</li><li>Machine Learning algorithms using MLlib: Naive Bayes, Decision Tree, Random Forest, Regression, K-Means</li><li>Creation of Recommendation Systems</li>';
+        $('#courses_11_p1').text('Curso 2/6 da Formação Cientista de Dados da Data Science Academy');
+        $('#courses_11_p2').text('O objetivo deste curso é trazer técnicas de análise de dados, em batch e em tempo real, com duas das principais ferramentas usadas por Cientistas de Dados: Linguagem Python e Apache Spark.');
+        courses_11_ul = '<li>Introdução ao Apache Spark</li><li>Spark SQL</li><li>Spark pair RDD, Acumuladores e Broadcast</li><li>Introdução ao Spark Streaming</li><li>Algoritmos de Machine Learning utilizando MLlib: Naive Bayes, Decision Tree, Random Forest, Regressão, K-Means</li><li>Criação de sistemas de Recomendação</li>';
         $('#courses_11_ul').html(courses_11_ul);
         $('#courses_11_a').text('Ir até o curso');
 
 
-        $('#courses_12_h4').text('Data Scientist Training with Python and R [2022]');
-        $('#courses_12_h5').text('February 2022');
+        $('#courses_12_h4').text('FORMAÇÃO CIENTISTA DE DADOS COM PYTHON E R [2022]');
+        $('#courses_12_h5').text('Fevereiro 2022');
         $('#courses_12_em').text('Udemy');
-        $('#courses_12_p1').text('Complete course on Data Science. Creating predictive models with Deep Learning, RNNs and Time Series. Concepts of text mining, graphs, project management, NoSQL database, basic and advanced statistics and much more.');
-        courses_12_ul = '<li>Introduction to Python and R languages</li><li>Cleaning, treatment and Exploratory Analysis of Data</li><li>Graphics, Visualization and Dashboards</li><li>Statistics I and II</li><li>Linear Regression, Classification, Time Series</li><li>Neural Networks and Deep Learning</li><li>Graph Theory</li><li>SQL and NoSQL</li><li>Introduction to Spark with Databricks</li>';
+        $('#courses_12_p1').text('Curso completo sobre Data Science. Criando modelos preditivos com Deep Learning, RNNs e Series temporais. Conceitos de mineração de textos, grafos, gestão de projetos, banco de dados NoSQL, estatística básica e avançada e muito mais.');
+        courses_12_ul = '<li>Introdução as linguagens Python e R</li><li>Limpeza, tratamento e Análise Exploratória dos Dados</li><li>Gráficos, Visualização e Dashboards</li><li>Estatística I e II</li><li>Regressão Linear, Classificação, Séries Temporais</li><li>Redes Neurais e Deep Learning</li><li>Teoria dos Grafos</li><li>SQL e NoSQL</li><li>Introdução ao Spark com Databricks</li>';
         $('#courses_12_ul').html(courses_12_ul);
         $('#courses_12_a').text('Ir até o curso');
 
