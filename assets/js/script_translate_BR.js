@@ -115,12 +115,12 @@ $(document).ready(function(){
         $('#courses_4_a').text('Ir até o curso');
 
 
-        $('#courses_5_h4').text('BUSINESS ANALYTICS COM R E PYTHON');
+        $('#courses_5_h4').text('PROFISSÃO ANALISTA DE DADOS');
         $('#courses_5_h5').text('Julho 2022');
-        $('#courses_5_em').text('DSA - Data Science Academy');
-        $('#courses_5_p1').text('Curso 5/6 da Formação Cientista de Dados da Data Science Academy');
+        $('#courses_5_em').text('EBAC - Escola Britânica de Artes Criativas');
+        $('#courses_5_p1').text('Curso Online pela plataforma de ensino Escola Britânica de Artes Criativas e Tecnologia. O curso aborda desde o básico em Python, até tópicos avançados de Machine Learning, Trabalho em ambiente Nuvem, Big Data e Data Lake no AWS.');
         $('#courses_5_p2').text('Conhecimento de negócio é uma das habilidades principais do Cientista de Dados. O objetivo deste curso é aplicar técnicas analíticas em áreas de negócio como Marketing, Finanças e RH, coletando dados, definindo métricas, criando modelos e extraindo insights que gerem valor para as empresas e suportem as tomadas de decisões.');
-        courses_5_ul = "<li>Análise preditiva</li><li>Marketing Analytics</li><li>RH Analytics</li><li>Financial Analytics</li><li>Social Network Analytics</li>";
+        courses_5_ul = "<li>Análise de Dados</li><li>Machine Learning</li><li>Linguagem SQL</li><li>Visualizar Dados</li><li>Trabalhar com Big Data</li><li>Trabalhar em Equipe com Git e Github</li>";
         $('#courses_5_ul').html(courses_5_ul);
         $('#courses_5_a').text('Ir até o curso');
 
