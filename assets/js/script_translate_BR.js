@@ -241,10 +241,10 @@ $(document).ready(function(){
         $('#courses_18_a').text('Ir até o curso');
 
 
-        $('#courses_19_h4').text('Git and contributions to Open Source projects Udemy');
-        $('#courses_19_h5').text('June 2019');
+        $('#courses_19_h4').text('GIT E CONTRIBUIÇÕES PARA PROJETOS OPEN SOURCE UDEMY');
+        $('#courses_19_h5').text('Junho 2019');
         $('#courses_19_em').text('Udemy');
-        $('#courses_19_p1').text('Course that covers from the most basic concepts to the most advanced about version control, tools like Git and GitHub, and how to contribute to Open Source projects.');
+        $('#courses_19_p1').text('Curso que abrange desde os conceitos mais básicos até os mais avançados sobre controle de versão, ferramentas como Git e GitHub, e como contribuir com projetos Open Source.');
         $('#courses_19_a').text('Ir até o curso');
 
 
