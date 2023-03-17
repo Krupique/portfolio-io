@@ -198,11 +198,11 @@ $(document).ready(function(){
         $('#courses_13_a').text('Ir até o curso');
 
 
-        $('#courses_14_h4').text('TensorFlow: Machine Learning and Deep Learning with Python');
-        $('#courses_14_h5').text('February 2022');
+        $('#courses_14_h4').text('TENSORFLOW: MACHINE LEARNING E DEEP LEARNING COM PYTHON');
+        $('#courses_14_h5').text('Fevereiro 2022');
         $('#courses_14_em').text('Udemy');
-        $('#courses_14_p1').text('Learn in theory and practice how to build artificial neural networks to solve real everyday problems.');
-        courses_14_ul = '<li>Basic Syntax</li><li>Regression and Classification</li><li>Artificial, Convolutional and Recurrent Neural Networks</li><li>Autoencoders</li><li>Generative Adversarial Networks (GANs) </li>';
+        $('#courses_14_p1').text('Aprenda na teoria e na prática como construir redes neurais artificiais para resolver problemas reais do dia.');
+        courses_14_ul = '<li>Sintaxe Básica</li><li>Regressão e Classificação</li><li>Redes Neurais Artificiais, Convolucionais e Recorrentes</li><li>Autoencoders</li><li>Redes Adversariais Generativas (GANs)</li>';
         $('#courses_14_ul').html(courses_14_ul);
         $('#courses_14_a').text('Ir até o curso');
 
