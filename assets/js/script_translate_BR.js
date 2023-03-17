@@ -225,11 +225,11 @@ $(document).ready(function(){
         $('#courses_16_a').text('Ir até o curso');
         
                 
-        $('#courses_17_h4').text('Python Fundamentals for Data Analysis');
-        $('#courses_17_h5').text('February 2021');
+        $('#courses_17_h4').text('PYTHON FUNDAMENTOS PARA ANÁLISE DE DADOS');
+        $('#courses_17_h5').text('Fevereiro 2021');
         $('#courses_17_em').text('DSA - Data Science Academy');
-        $('#courses_17_p1').text('This course covers the basic concepts and fundamentals of the Python programming language. In addition, the course covers the main Python libraries for data analysis and Data Science projects.');
-        courses_17_ul = '<li>Introduction to Python</li><li>Main packages for analysis: Pandas, Numpy, Matplotlib, among others.</li><li>Object Orientation</li><li>Introduction to Tensorflow</li ><li>Introduction to Machine Learning</li><li>Introduction to Deep Learning</li><li>Web Scraping</li>';
+        $('#courses_17_p1').text('Este curso contempla os conceitos básicos e fundamentos da linguagem de programação Python. Além disso, o curso aborda as principais bibliotecas Python para análise de dados e projetos de Data Science.');
+        courses_17_ul = '<li>Introdução ao Python</li><li>Principais pacotes para análises: Pandas, Numpy, Matplotlib, dentre outros.</li><li>Orientação a Objetos</li><li>Introdução ao Tensorflow</li><li>Introdução a Machine Learning</li><li>Introdução a Deep Learning</li><li>Web Scraping</li>';
         $('#courses_17_ul').html(courses_17_ul);
         $('#courses_17_a').text('Ir até o curso');
 
