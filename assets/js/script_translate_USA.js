@@ -147,7 +147,7 @@ $(document).ready(function(){
         $('#courses_8_em').text('DSA - Data Science Academy');
         $('#courses_8_p1').text('This course aimed to present and exemplify in detail all the main concepts of Time Series. In addition, the main predictive modeling algorithms for this topic were covered, such as: ARIMA models, deep neural networks, libraries developed by the Facebook and Amazon team, and much more.');
         $('#courses_8_p2').text('Course available only for those who purchased any other paid course on the platform.');
-        courses_8_ul = '<li>Basic Concepts</li><li>Checking Stationarity</li><li>Smoothing</li><li>ARMA, ARIMA, SARIMA templates</li><li>Facebook Prophet</li><li>Deep Learning with LSTM</li><li>Deep Learning with DeepAR</li>';
+        courses_8_ul = '<li>Basic Concepts</li><li>Checking Stationarity</li><li>Smoothing</li><li>ARMA, ARIMA, SARIMA models</li><li>Facebook Prophet</li><li>Deep Learning with LSTM</li><li>Deep Learning with DeepAR</li>';
         $('#courses_8_ul').html(courses_8_ul);
         $('#courses_8_a').text('Go to the course');
 

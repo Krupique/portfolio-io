@@ -141,12 +141,12 @@ $(document).ready(function(){
         $('#courses_7_a').text('Ir até o curso');
 
 
-        $('#courses_8_h4').text('Statistical Analysis and Predictive Modeling of Time Series');
-        $('#courses_8_h5').text('June 2022');
+        $('#courses_8_h4').text('ANÁLISE ESTATÍSTICA E MODELAGEM PREDITIVA DE SÉRIES TEMPORAIS');
+        $('#courses_8_h5').text('Junho 2022');
         $('#courses_8_em').text('DSA - Data Science Academy');
-        $('#courses_8_p1').text('This course aimed to present and exemplify in detail all the main concepts of Time Series. In addition, the main predictive modeling algorithms for this topic were covered, such as: ARIMA models, deep neural networks, libraries developed by the Facebook and Amazon team, and much more.');
-        $('#courses_8_p2').text('Course available only for those who purchased any other paid course on the platform.');
-        courses_8_ul = '<li>Basic Concepts</li><li>Checking Stationarity</li><li>Smoothing</li><li>ARMA, ARIMA, SARIMA templates</li><li>Facebook Prophet</li><li>Deep Learning with LSTM</li><li>Deep Learning with DeepAR</li>';
+        $('#courses_8_p1').text('Este curso teve por objetivo apresentar e exemplificar de uma maneira detalhada todos os principais conceitos de Séries Temporais. Além disso, foram abordados os principais algoritmos de modelagem preditiva para esste tópico, tais como: modelos ARIMA, redes neurais profundas, bibliotecas desenvolvidas pela equipe do Facebook e da Amazon e muito mais.');
+        $('#courses_8_p2').text('Curso disponível somente para quem adquiriu qualquer outro curso pago da plataforma.');
+        courses_8_ul = '<li>Conceitos Básicos</li><li>Verificando Estacionariedade</li><li>Smoothing</li><li>Modelos ARMA, ARIMA, SARIMA</li><li>Facebook Prophet</li><li>Deep Learning com LSTM</li><li>Deep Learning com DeepAR</li>';
         $('#courses_8_ul').html(courses_8_ul);
         $('#courses_8_a').text('Ir até o curso');
 
