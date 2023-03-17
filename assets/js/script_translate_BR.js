@@ -248,17 +248,17 @@ $(document).ready(function(){
         $('#courses_19_a').text('Ir até o curso');
 
 
-        $('#courses_20_h4').text('Complete web 2.0 development course 2018 Python and Django');
-        $('#courses_20_h5').text('April 2019');
+        $('#courses_20_h4').text('CURSO DESENVOLVIMENTO WEB 2.0 COMPLETO 2018 PYTHON E DJANGO');
+        $('#courses_20_h5').text('Abril 2019');
         $('#courses_20_em').text('Udemy');
-        $('#courses_20_p1').text('The course addresses theoretical concepts about the Web, from the moment a user types the URL into the browser until the moment the site/system loads in the browser. The course brings several practical projects using the programming languages');
-        courses_20_ul = '<li>Computer Network Theory</li><li>HTML and CSS </li><li>Javascript</li><li>Python and Django</li>';
+        $('#courses_20_p1').text('O curso aborda conceitos teóricos sobre Web, desde o momento em que um usuário digita a URL no navegado até o momento em que o site/sistema carrga no browser. O curso traz diversos projetos práticos utilizando as linguagens de programação.');
+        courses_20_ul = '<li>Teoria sobre Redes de Computadores</li><li>HTML e CSS </li><li>Javascript</li><li>Python e Django</li>';
         $('#courses_20_ul').html(courses_20_ul);
         $('#courses_20_a').text('Ir até o curso');
 
         /*************** CONTACT ***************/
-        $('#contact_address').text('Address');
-        $('#contact_phone').text('Phone');
+        $('#contact_address').text('Endere;o');
+        $('#contact_phone').text('Telefone');
 
 
         /*************** OTHERS ***************/
