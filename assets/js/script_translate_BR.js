@@ -216,11 +216,11 @@ $(document).ready(function(){
         $('#courses_15_a').text('Ir até o curso');
         
         
-        $('#courses_16_h4').text('Face and Object Recognition with Python and Dlib');
-        $('#courses_16_h5').text('November 2021');
+        $('#courses_16_h4').text('RECONHECIMENTO DE FACES E DE OBJETOS COM PYTHON E DLIB');
+        $('#courses_16_h5').text('Novembro  2021');
         $('#courses_16_em').text('Udemy');
-        $('#courses_16_p1').text('The course teaches how to detect faces using haarcascade, HOG and convolutional neural networks (CNN) techniques.');
-        courses_16_ul = '<li>Face detection with Haarcascade</li><li>OpenCV</li><li>HOG, KNN, Yalesface and SVM algorithms</li><li>Dlib library</li><li>Hog x CNN </li>';
+        $('#courses_16_p1').text('O curso ensina a detectar faces utilizando as técnicas de haarcascade, HOG e redes neurais convolucionais (CNN).');
+        courses_16_ul = '<li>Detecção de faces com Haarcascade</li><li>OpenCV</li><li>Algoritmos HOG, KNN, Yalesface e SVM</li><li>Bibliteca Dlib</li><li>Hog x CNN</li>';
         $('#courses_16_ul').html(courses_16_ul);
         $('#courses_16_a').text('Ir até o curso');
         
