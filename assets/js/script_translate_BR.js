@@ -105,12 +105,12 @@ $(document).ready(function(){
         $('#courses_3_a').text('Ir até o curso');
 
 
-        $('#courses_4_h4').text('Deploying Machine Learning Models');
-        $('#courses_4_h5').text('July 2022');
+        $('#courses_4_h4').text('DEPLOY DE MODELOS DE MACHINE LEARNING');
+        $('#courses_4_h5').text('Julho 2022');
         $('#courses_4_em').text('DSA - Data Science Academy');
-        $('#courses_4_p1').text('Course 3/4 of the Data Science Academy Machine Learning Engineer Training');
-        $('#courses_4_p2').text('This course is dedicated to Deploying Machine Learning models. The course covers AWS Cloud Environment, Google Cloud Platform and Azure and how to use AWS SageMaker to create an API for ML models. The deployment will be done with different tools for local or cloud consumption, such as TensorFlow, MLFlow, KubeFlow, MLeap, Spark MLLib and Scikit-Learn. Plus Keras, PyTorch and MxNet with Gluon, as well as Databricks, Docker and Streamlit. Flask and Django will also be covered in this course.');
-        courses_4_ul = "<li>AWS, GCP, and Azure</li><li>AWS SageMaker</li><li>TensorFlow, MLFlow, KubeFlow</li><li>MLeap, Spark MLLib, Scikit-Learning</li><li>Keras, Pytorch, MXNet with Gluon</li><li>Databricks, Docker and Streamlit</li><li>Flask and Django</li>";
+        $('#courses_4_p1').text('Curso 3/4 da Formação Engenheiro de Machine Learning da Data Science Academy');
+        $('#courses_4_p2').text('Este curso é dedicado ao Deploy de modelos de Machine Learning. O curso aborda Ambiente em Nuvem AWS, Google Cloud Platform e Azure e como utilizar a usar o AWS SageMaker para criar uma API para modelos de ML. O deploy será feito com diferentes ferramentas para consumo local ou em nuvem, tais como TensorFlow, MLFlow, KubeFlow, MLeap, Spark MLLib e Scikit-Learn. E ainda Keras, PyTorch e o MxNet com Gluon, além de Databricks, Docker e Streamlit. Flask e Django também serão abordados neste curso.');
+        courses_4_ul = "<li>AWS, GCP e Azure</li><li>AWS SageMaker</li><li>TensorFlow, MLFlow, KubeFlow</li><li>MLeap, Spark MLLib, Scikit-Learning</li><li>Keras, Pytorch, MXNet com Gluon</li><li>Databricks, Docker e Streamlit</li><li>Flask e Django</li>";
         $('#courses_4_ul').html(courses_4_ul);
         $('#courses_4_a').text('Ir até o curso');
 
