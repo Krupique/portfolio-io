@@ -88,11 +88,11 @@ $(document).ready(function(){
         $('#courses_1_a').text('Ir até o curso');
 
 
-        $('#courses_2_h4').text('Data Engineering with Hadoop and Spark');
-        $('#courses_2_h5').text('October 2022');
+        $('#courses_2_h4').text('ENGENHARIA DE DADOS COM HADOOP E SPARK');
+        $('#courses_2_h5').text('Outubro 2022');
         $('#courses_2_em').text('DSA - Data Science Academy');
-        $('#courses_2_p1').text('Course 3/3 of Data Science Academy Data Scientist Training');
-        $('#courses_2_p2').text('This is a course focused on Data Engineering. Storing Big Data is a challenge, given its characteristics: data generated at high speed, high volume and great variety. This course teaches how to create a Hadoop cluster, how to configure a Hadoop cluster, how to apply mapping/reduction techniques on data. In addition, it also shows how to create a Data Hub with Hadoop and HBase and apply ETL to load Hadoop data. Topics involved: Hadoop, Cluster, ETL, Machine Learning, Spark, Amazon EMR, Data Mining.');
+        $('#courses_2_p1').text('Curso 3/6 da Formação Cientista de Dados da Data Science Academy');
+        $('#courses_2_p2').text('Este é um curso focado na Engenharia de Dados. Armazenar Big Data é um desafio, dadas as suas características: dados gerados em alta velocidade, alto volume e grande variedade. Este curso ensina como criar um cluster Hadoop, como configurar um cluster Hadoop, como aplicar técnicas de mapeamento/redução nos dados. Além disso, ainda mostra como criar um Data Hub com Hadoop e HBase e aplicar ETL para carregar dados Hadoop. Tópicos envolvidos: Hadoop, Cluster, ETL, Machine Learning, Spark, Amazon EMR, Data Mining.');
         $('#courses_2_a').text('Ir até o curso');
 
 
