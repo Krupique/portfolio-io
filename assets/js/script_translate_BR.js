@@ -79,13 +79,13 @@ $(document).ready(function(){
 
 
         /*************** COURSES ***************/
-        $('#courses').text('Courses');
-        $('#courses_1_h4').text('Data Analysis with Python');
-        $('#courses_1_h5').text('(In progress)');
+        $('#courses').text('Cursos');
+        $('#courses_1_h4').text('ANÁLISE DE DADOS COM LINGUAGEM PYTHON');
+        $('#courses_1_h5').text('(Em andamento)');
         $('#courses_1_em').text('DSA - Data Science Academy');
-        $('#courses_1_p1').text('Course 3/3 of the Data Science Academy Data Analyst Training');
-        $('#courses_1_p2').text('During the training students will acquire fundamental skills of a Data Analyst: how to handle missing values, how to clean and process data, how to perform descriptive statistical analysis, how to apply binarization and encoding of categorical variables, attribute engineering and much more.');
-        $('#courses_1_a').text('Go to the course');
+        $('#courses_1_p1').text('Curso 3/3 da Formação Analista de Dados da Data Science Academy');
+        $('#courses_1_p2').text('Durante o treinamento os alunos vão adquirir habilidades fundamentais de um Analista de Dados: como tratar valores ausentes, como limpar e processar dados, como realizar análise estatística descritiva, como aplicar binarização e encoding de variáveis categóricas, engenharia de atributos e muito mais.');
+        $('#courses_1_a').text('Ir até o curso');
 
 
         $('#courses_2_h4').text('Data Engineering with Hadoop and Spark');
@@ -93,7 +93,7 @@ $(document).ready(function(){
         $('#courses_2_em').text('DSA - Data Science Academy');
         $('#courses_2_p1').text('Course 3/3 of Data Science Academy Data Scientist Training');
         $('#courses_2_p2').text('This is a course focused on Data Engineering. Storing Big Data is a challenge, given its characteristics: data generated at high speed, high volume and great variety. This course teaches how to create a Hadoop cluster, how to configure a Hadoop cluster, how to apply mapping/reduction techniques on data. In addition, it also shows how to create a Data Hub with Hadoop and HBase and apply ETL to load Hadoop data. Topics involved: Hadoop, Cluster, ETL, Machine Learning, Spark, Amazon EMR, Data Mining.');
-        $('#courses_2_a').text('Go to the course');
+        $('#courses_2_a').text('Ir até o curso');
 
 
         $('#courses_3_h4').text('Microsoft Power BI for Data Science, Version 2.0');
@@ -102,7 +102,7 @@ $(document).ready(function(){
         $('#courses_3_p1').text('The course covers content related to Power BI in a very comprehensive way. It brings the construction of several interactive dashboards, connection and extraction of data from Relational and Non-Relational Databases, integration with Python and R programming languages. In addition, it brings an overview of the Microsoft Power Platform, with projects using Power BI Online, Power Apps, Power Automate and Power Virtual Agents.');
         courses_3_ul = "<li>Introduction to Power BI</li><li>Modeling, Relationship and DAX</li><li>Cleaning, Transforming, Time Series, Aggregation and Filters</li><li>Interactive Charts, Maps and Dashboards</li><li>Fundamental statistics</li><li>R language and Python</li><li>Power Automate, Power Virtual Agents and Power Apps</li>";
         $('#courses_3_ul').html(courses_3_ul);
-        $('#courses_3_a').text('Go to the course');
+        $('#courses_3_a').text('Ir até o curso');
 
 
         $('#courses_4_h4').text('Deploying Machine Learning Models');
@@ -112,7 +112,7 @@ $(document).ready(function(){
         $('#courses_4_p2').text('This course is dedicated to Deploying Machine Learning models. The course covers AWS Cloud Environment, Google Cloud Platform and Azure and how to use AWS SageMaker to create an API for ML models. The deployment will be done with different tools for local or cloud consumption, such as TensorFlow, MLFlow, KubeFlow, MLeap, Spark MLLib and Scikit-Learn. Plus Keras, PyTorch and MxNet with Gluon, as well as Databricks, Docker and Streamlit. Flask and Django will also be covered in this course.');
         courses_4_ul = "<li>AWS, GCP, and Azure</li><li>AWS SageMaker</li><li>TensorFlow, MLFlow, KubeFlow</li><li>MLeap, Spark MLLib, Scikit-Learning</li><li>Keras, Pytorch, MXNet with Gluon</li><li>Databricks, Docker and Streamlit</li><li>Flask and Django</li>";
         $('#courses_4_ul').html(courses_4_ul);
-        $('#courses_4_a').text('Go to the course');
+        $('#courses_4_a').text('Ir até o curso');
 
 
         $('#courses_5_h4').text('Business Analytics with R and Python');
@@ -122,7 +122,7 @@ $(document).ready(function(){
         $('#courses_5_p2').text('Business knowledge is one of the main skills of the Data Scientist. The objective of this course is to apply analytical techniques in business areas such as Marketing, Finance and HR, collecting data, defining metrics, creating models and extracting insights that generate value for companies and support decision-making.');
         courses_5_ul = "<li>Predictive analytics</li><li>Marketing Analytics</li><li>HR Analytics</li><li>Financial Analytics</li><li>Social Network Analytics</li>";
         $('#courses_5_ul').html(courses_5_ul);
-        $('#courses_5_a').text('Go to the course');
+        $('#courses_5_a').text('Ir até o curso');
 
 
         $('#courses_6_h4').text('Profession Data Analyst');
@@ -131,7 +131,7 @@ $(document).ready(function(){
         $('#courses_6_p1').text('Online course by the British School of Creative Arts and Technology teaching platform. The course covers everything from basics in Python to advanced topics in Machine Learning, Working in the Cloud, Big Data and Data Lake on AWS.');
         courses_6_ul = "<li>Data Analysis</li><li>Machine Learning</li><li>SQL Language</li><li>Visualize Data</li><li>Work with Big Data</li><li>Team Work with Git and Github</li>";
         $('#courses_6_ul').html(courses_6_ul);
-        $('#courses_6_a').text('Go to the course');
+        $('#courses_6_a').text('Ir até o curso');
         
         
         $('#courses_7_h4').text('Soft Skills - Developing behavioral skills');
@@ -139,7 +139,7 @@ $(document).ready(function(){
         $('#courses_7_em').text('DSA - Data Science Academy');
         $('#courses_7_p1').text('Although technical knowledge is essential for anyone working with technology, behavioral skills can determine professional success. The course covers topics such as: Assertive Communication, Teamwork, Ownership & Accountability, Creativity, Agile Methodologies (SCRUM), Diversity and Multidisciplinary Teams.');
         $('#courses_7_p2').text('Course available only for those who purchased any other paid course on the platform.');
-        $('#courses_7_a').text('Go to the course');
+        $('#courses_7_a').text('Ir até o curso');
 
 
         $('#courses_8_h4').text('Statistical Analysis and Predictive Modeling of Time Series');
@@ -149,7 +149,7 @@ $(document).ready(function(){
         $('#courses_8_p2').text('Course available only for those who purchased any other paid course on the platform.');
         courses_8_ul = '<li>Basic Concepts</li><li>Checking Stationarity</li><li>Smoothing</li><li>ARMA, ARIMA, SARIMA templates</li><li>Facebook Prophet</li><li>Deep Learning with LSTM</li><li>Deep Learning with DeepAR</li>';
         $('#courses_8_ul').html(courses_8_ul);
-        $('#courses_8_a').text('Go to the course');
+        $('#courses_8_a').text('Ir até o curso');
 
 
         $('#courses_9_h4').text('Data Visualization and Dashboard Design');
@@ -159,7 +159,7 @@ $(document).ready(function(){
         $('#courses_9_p2').text('Data Science Academy Data Scientist Training Course. This is a course that teaches students to tell a story from data, using presentation techniques, design, dashboards and visualization strategies in various tools. Telling the story behind data is a skill that can be learned and practiced.');
         courses_9_ul = '<li>Presentation Techniques</li><li>Design Thinking</li><li>Visual organization</li><li>Dashboard and Charts</li><li>View Tools</li>';
         $('#courses_9_ul').html(courses_9_ul);
-        $('#courses_9_a').text('Go to the course');
+        $('#courses_9_a').text('Ir até o curso');
 
 
         $('#courses_10_h4').text('1st Business Games Tournament - INOVA');
@@ -167,7 +167,7 @@ $(document).ready(function(){
         $('#courses_10_em').text('Inova Prudente');
         $('#courses_10_p1').text("With the aim of encouraging the learning of business concepts, in addition to generating connections between participants, the Mayor's Office of Presidente Prudente, through the Inova Foundation, launched for the first time in the region, an edition of a Business Games Tournament.");
         $('#courses_10_p2').text('The objective of the competition was to allow participants to simulate the management of a company in a highly competitive and interactive environment, making different business decisions based on news, reports and management charts.');
-        $('#courses_10_a').text('Go to the course');
+        $('#courses_10_a').text('Ir até o curso');
 
 
         $('#courses_11_h4').text('Big Data Real-Time Analytics with Python and Spark');
@@ -177,7 +177,7 @@ $(document).ready(function(){
         $('#courses_11_p2').text('The objective of this course is to bring data analysis techniques, in batch and in real time, with two of the main tools used by Data Scientists: Python Language and Apache Spark.');
         courses_11_ul = '<li>Introduction to Apache Spark</li><li>Spark SQL</li><li>Spark pair RDD, Accumulators and Broadcast</li><li>Introduction to Spark Streaming</li><li>Machine Learning algorithms using MLlib: Naive Bayes, Decision Tree, Random Forest, Regression, K-Means</li><li>Creation of Recommendation Systems</li>';
         $('#courses_11_ul').html(courses_11_ul);
-        $('#courses_11_a').text('Go to the course');
+        $('#courses_11_a').text('Ir até o curso');
 
 
         $('#courses_12_h4').text('Data Scientist Training with Python and R [2022]');
@@ -186,7 +186,7 @@ $(document).ready(function(){
         $('#courses_12_p1').text('Complete course on Data Science. Creating predictive models with Deep Learning, RNNs and Time Series. Concepts of text mining, graphs, project management, NoSQL database, basic and advanced statistics and much more.');
         courses_12_ul = '<li>Introduction to Python and R languages</li><li>Cleaning, treatment and Exploratory Analysis of Data</li><li>Graphics, Visualization and Dashboards</li><li>Statistics I and II</li><li>Linear Regression, Classification, Time Series</li><li>Neural Networks and Deep Learning</li><li>Graph Theory</li><li>SQL and NoSQL</li><li>Introduction to Spark with Databricks</li>';
         $('#courses_12_ul').html(courses_12_ul);
-        $('#courses_12_a').text('Go to the course');
+        $('#courses_12_a').text('Ir até o curso');
 
 
         $('#courses_13_h4').text('Machine Learning');
@@ -196,7 +196,7 @@ $(document).ready(function(){
         $('#courses_13_p2').text('The objective of this course is to bring the construction of Machine Learning models. In addition to studying machine learning theory, it is covered in practice how algorithms work in different projects.');
         courses_13_ul = '<li>Features Engineering with Categorical Variables in Practice</li><li>Algorithms: KNN, Naive Bayes, Linear Regression, Logistic Regression, XGB, SVM, Decision Trees</li><li>Dimensionality Reduction with PCA</li><li>Natural Language Processing</li><li>TensorFlow and PyTorch for Deep Learning</li><li>Deploying a Machine Learning model</li>';
         $('#courses_13_ul').html(courses_13_ul);
-        $('#courses_13_a').text('Go to the course');
+        $('#courses_13_a').text('Ir até o curso');
 
 
         $('#courses_14_h4').text('TensorFlow: Machine Learning and Deep Learning with Python');
@@ -205,7 +205,7 @@ $(document).ready(function(){
         $('#courses_14_p1').text('Learn in theory and practice how to build artificial neural networks to solve real everyday problems.');
         courses_14_ul = '<li>Basic Syntax</li><li>Regression and Classification</li><li>Artificial, Convolutional and Recurrent Neural Networks</li><li>Autoencoders</li><li>Generative Adversarial Networks (GANs) </li>';
         $('#courses_14_ul').html(courses_14_ul);
-        $('#courses_14_a').text('Go to the course');
+        $('#courses_14_a').text('Ir até o curso');
 
 
         $('#courses_15_h4').text('Tensorflow 2.0: A Complete About the New Tensorflow');
@@ -214,7 +214,7 @@ $(document).ready(function(){
         $('#courses_15_p1').text('A guide to the main features of Tensorflow 2.x. Implementations of Artificial Neural Networks, CNNs, Recurrent Neural Networks and other projects.');
         courses_15_ul = '<li>Introduction to Tensorflow</li><li>Artificial, Convolutional and Recurrent Neural Networks</li><li>Transfer Learning and Fine Tuning</li><li>Reinforcement Learning</li><li> Tensorflow Lite</li>';
         $('#courses_15_ul').html(courses_15_ul);
-        $('#courses_15_a').text('Go to the course');
+        $('#courses_15_a').text('Ir até o curso');
         
         
         $('#courses_16_h4').text('Face and Object Recognition with Python and Dlib');
@@ -223,7 +223,7 @@ $(document).ready(function(){
         $('#courses_16_p1').text('The course teaches how to detect faces using haarcascade, HOG and convolutional neural networks (CNN) techniques.');
         courses_16_ul = '<li>Face detection with Haarcascade</li><li>OpenCV</li><li>HOG, KNN, Yalesface and SVM algorithms</li><li>Dlib library</li><li>Hog x CNN </li>';
         $('#courses_16_ul').html(courses_16_ul);
-        $('#courses_16_a').text('Go to the course');
+        $('#courses_16_a').text('Ir até o curso');
         
                 
         $('#courses_17_h4').text('Python Fundamentals for Data Analysis');
@@ -232,21 +232,21 @@ $(document).ready(function(){
         $('#courses_17_p1').text('This course covers the basic concepts and fundamentals of the Python programming language. In addition, the course covers the main Python libraries for data analysis and Data Science projects.');
         courses_17_ul = '<li>Introduction to Python</li><li>Main packages for analysis: Pandas, Numpy, Matplotlib, among others.</li><li>Object Orientation</li><li>Introduction to Tensorflow</li ><li>Introduction to Machine Learning</li><li>Introduction to Deep Learning</li><li>Web Scraping</li>';
         $('#courses_17_ul').html(courses_17_ul);
-        $('#courses_17_a').text('Go to the course');
+        $('#courses_17_a').text('Ir até o curso');
 
 
         $('#courses_18_h4').text('Big Data Fundamentals 2.0');
         $('#courses_18_h5').text('February 2020');
         $('#courses_18_em').text('DSA - Data Science Academy');
         $('#courses_18_p1').text('The Big Data Fundamentals course theoretically addresses several concepts about Big Data, how it is used in the corporate environment and how it is impacting the world today.');
-        $('#courses_18_a').text('Go to the course');
+        $('#courses_18_a').text('Ir até o curso');
 
 
         $('#courses_19_h4').text('Git and contributions to Open Source projects Udemy');
         $('#courses_19_h5').text('June 2019');
         $('#courses_19_em').text('Udemy');
         $('#courses_19_p1').text('Course that covers from the most basic concepts to the most advanced about version control, tools like Git and GitHub, and how to contribute to Open Source projects.');
-        $('#courses_19_a').text('Go to the course');
+        $('#courses_19_a').text('Ir até o curso');
 
 
         $('#courses_20_h4').text('Complete web 2.0 development course 2018 Python and Django');
@@ -255,7 +255,7 @@ $(document).ready(function(){
         $('#courses_20_p1').text('The course addresses theoretical concepts about the Web, from the moment a user types the URL into the browser until the moment the site/system loads in the browser. The course brings several practical projects using the programming languages');
         courses_20_ul = '<li>Computer Network Theory</li><li>HTML and CSS </li><li>Javascript</li><li>Python and Django</li>';
         $('#courses_20_ul').html(courses_20_ul);
-        $('#courses_20_a').text('Go to the course');
+        $('#courses_20_a').text('Ir até o curso');
 
         /*************** CONTACT ***************/
         $('#contact_address').text('Address');
