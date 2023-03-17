@@ -129,16 +129,15 @@ $(document).ready(function(){
         $('#courses_6_h5').text('Julho 2022');
         $('#courses_6_em').text('EBAC - Escola Britânica de Artes Criativas');
         $('#courses_6_p1').text('Curso Online pela plataforma de ensino Escola Britânica de Artes Criativas e Tecnologia. O curso aborda desde o básico em Python, até tópicos avançados de Machine Learning, Trabalho em ambiente Nuvem, Big Data e Data Lake no AWS.');
-        // $('#courses_6_p2').text('Conhecimento de negócio é uma das habilidades principais do Cientista de Dados. O objetivo deste curso é aplicar técnicas analíticas em áreas de negócio como Marketing, Finanças e RH, coletando dados, definindo métricas, criando modelos e extraindo insights que gerem valor para as empresas e suportem as tomadas de decisões.');
         courses_6_ul = "<li>Análise de Dados</li><li>Machine Learning</li><li>Linguagem SQL</li><li>Visualizar Dados</li><li>Trabalhar com Big Data</li><li>Trabalhar em Equipe com Git e Github</li>";
         $('#courses_6_ul').html(courses_6_ul);
         $('#courses_6_a').text('Ir até o curso');
         
-        $('#courses_7_h4').text('Soft Skills - Developing behavioral skills');
-        $('#courses_7_h5').text('June 2022');
+        $('#courses_7_h4').text('SOFT SKILLS - DESENVOLVENDO HABILIDADES COMPORTAMENTAIS');
+        $('#courses_7_h5').text('Junho  2022');
         $('#courses_7_em').text('DSA - Data Science Academy');
-        $('#courses_7_p1').text('Although technical knowledge is essential for anyone working with technology, behavioral skills can determine professional success. The course covers topics such as: Assertive Communication, Teamwork, Ownership & Accountability, Creativity, Agile Methodologies (SCRUM), Diversity and Multidisciplinary Teams.');
-        $('#courses_7_p2').text('Course available only for those who purchased any other paid course on the platform.');
+        $('#courses_7_p1').text('Embora o conhecimento técnico seja fundamental para quem trabalha com tecnologia, habilidades comportamentais podem determinar o sucesso profissional. O curso aborda tópicos como: Comunicação Assertiva, Trabalho em Equipe, Ownership & Accountability, Criatividade, Metodologias Ágeis (SCRUM), Diversidade e Times Multidisciplinares.');
+        $('#courses_7_p2').text('Curso disponível somente para quem adquiriu qualquer outro curso pago da plataforma.');
         $('#courses_7_a').text('Ir até o curso');
 
 
