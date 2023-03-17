@@ -151,12 +151,12 @@ $(document).ready(function(){
         $('#courses_8_a').text('Ir até o curso');
 
 
-        $('#courses_9_h4').text('Data Visualization and Dashboard Design');
-        $('#courses_9_h5').text('June 2022');
+        $('#courses_9_h4').text('VISUALIZAÇÃO DE DADOS E DESIGN DE DASHBOARDS');
+        $('#courses_9_h5').text('Junho 2022');
         $('#courses_9_em').text('DSA - Data Science Academy');
-        $('#courses_9_p1').text('Data Science Academy Data Scientist Training Course 6/6');
-        $('#courses_9_p2').text('Data Science Academy Data Scientist Training Course. This is a course that teaches students to tell a story from data, using presentation techniques, design, dashboards and visualization strategies in various tools. Telling the story behind data is a skill that can be learned and practiced.');
-        courses_9_ul = '<li>Presentation Techniques</li><li>Design Thinking</li><li>Visual organization</li><li>Dashboard and Charts</li><li>View Tools</li>';
+        $('#courses_9_p1').text('Curso 6/6 da Formação Cientista de Dados da Data Science Academy');
+        $('#courses_9_p2').text('Curso da Formação Cientista de Dados da Data Science Academy. Este é um curso que ensina o aluno a contar uma história a partir dos dados, usando técnicas de apresentação, design, dashboards e estratégias de visualização em diversas ferramentas. Contar a história por trás dos dados é uma habilidade que pode ser aprendida e praticada.');
+        courses_9_ul = '<li>Técnicas de Apresentação</li><li>Design Thinking</li><li>Organização visual</li><li>Dashboard e Gráficos</li><li>Ferramentas de Visualização</li>';
         $('#courses_9_ul').html(courses_9_ul);
         $('#courses_9_a').text('Ir até o curso');
 
