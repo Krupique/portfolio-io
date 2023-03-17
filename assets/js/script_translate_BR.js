@@ -96,11 +96,11 @@ $(document).ready(function(){
         $('#courses_2_a').text('Ir até o curso');
 
 
-        $('#courses_3_h4').text('Microsoft Power BI for Data Science, Version 2.0');
-        $('#courses_3_h5').text('September 2022');
+        $('#courses_3_h4').text('MICROSOFT POWER BI PARA DATA SCIENCE, VERSÃO 2.0');
+        $('#courses_3_h5').text('Setembro  2022');
         $('#courses_3_em').text('DSA - Data Science Academy');
-        $('#courses_3_p1').text('The course covers content related to Power BI in a very comprehensive way. It brings the construction of several interactive dashboards, connection and extraction of data from Relational and Non-Relational Databases, integration with Python and R programming languages. In addition, it brings an overview of the Microsoft Power Platform, with projects using Power BI Online, Power Apps, Power Automate and Power Virtual Agents.');
-        courses_3_ul = "<li>Introduction to Power BI</li><li>Modeling, Relationship and DAX</li><li>Cleaning, Transforming, Time Series, Aggregation and Filters</li><li>Interactive Charts, Maps and Dashboards</li><li>Fundamental statistics</li><li>R language and Python</li><li>Power Automate, Power Virtual Agents and Power Apps</li>";
+        $('#courses_3_p1').text('O curso aborda de maneira bastante abrangente conteúdos relacionados ao Power BI. Traz a construção de diversos dashboards interativos, conexão e extração dos dados a partir de Banco de Dados Relacionais e Não Relacionais, integração com linguagens de programação Python e R. Além disso, traz uma visão geral sobre a Plataforma Microsoft Power, com projetos utilizando Power BI Online, Power Apps, Power Automate e Power Virtual Agents.');
+        courses_3_ul = "<li>Introdução ao Power BI</li><li>Modelagem, Relacionamento e DAX</li><li>Limpeza, Transformação, Séries Temporais, Agregação e Filtros</li><li>Gráficos, Mapas e Dashboards interativosli><li>Estatística fundamental</li><li>Linguagem R e Python</li><li>Power Automate, Power Virtual Agents e Power Apps</li>";
         $('#courses_3_ul').html(courses_3_ul);
         $('#courses_3_a').text('Ir até o curso');
 
