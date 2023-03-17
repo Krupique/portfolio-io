@@ -234,10 +234,10 @@ $(document).ready(function(){
         $('#courses_17_a').text('Ir até o curso');
 
 
-        $('#courses_18_h4').text('Big Data Fundamentals 2.0');
-        $('#courses_18_h5').text('February 2020');
+        $('#courses_18_h4').text('BIG DATA FUNDAMENTOS 2.0');
+        $('#courses_18_h5').text('Fevereiro 2020');
         $('#courses_18_em').text('DSA - Data Science Academy');
-        $('#courses_18_p1').text('The Big Data Fundamentals course theoretically addresses several concepts about Big Data, how it is used in the corporate environment and how it is impacting the world today.');
+        $('#courses_18_p1').text('No curso de Big Data Fundamentos é abordado de maneira teórica diversos conceitos sobre o Big Data,como ele é utilizado no ambiente corporativo e como está impactando o mundo atual.');
         $('#courses_18_a').text('Ir até o curso');
 
 
