@@ -63,19 +63,19 @@ $(document).ready(function(){
         $('#education_l3').text("Colaboração em diversas ações voluntárias durante minha vida acadêmica.");
 
         /*************** EXPERIENCE ***************/
-        $('#professional_1').text("Professional experience");
-        $('#professional_1_h5 ').text("2022 - current");
-        $('#professional_1_p1').text("I currently work as a Data Analyst at Americanas S.A. Americanas S.A. is the result of the merger between Lojas Americanas and B2W. It owns the biggest brands on the Internet (Americanas.com, Submarino, Shoptime and SouBarato), with a marketplace, logistics and fintech operation linked to more than 1700 physical stores throughout Brazil.");
-        $('#professional_1_p2').text("I'm part of the Regionalization team, whose responsibilities are in defining the regions used in freight calculations, delivery logistics and search. Our goal is to constantly seek to improve delivery times, using georeferencing models and tools to cluster our demand and optimize our services.");
+        $('#professional_1').text("Experiência Profissional");
+        $('#professional_1_h5 ').text("2022 - o momento");
+        $('#professional_1_p1').text("Atualmente atuo como Analista de Dados no grupo Americanas S.A. O grupo Americanas S.A. é o resultado da fusão entre as Lojas Americanas e a B2W. É dona das maiores marcas da Internet (Americanas.com, Submarino, Shoptime e SouBarato), com uma operação de marketplace, logística e fintech unidas a mais de 1700 mil lojas físicas em todo Brasil.");
+        $('#professional_1_p2').text("Faço parte do time de Regionalização, cuja as responsabilidades estão na definição das regiões utilizadas nos cálculos de frete, logística de entrega e busca. O nosso objetivo é a constante busca pela melhoria dos prazos de entrega, utilizando modelos e ferramentas de georreferenciamento na clusterização de nossa demanda e otimização de nossos serviços.");
 
-        $('#professional_2_em ').text("Unilotus Food Distributor Ltd.");
-        $('#professional_2_p1 ').text("I made an ETL project to organize the received data into a completely unstructured file.");
-        $('#professional_2_p2 ').text("My client used to take about 5 hours a day to sort the poorly readable file he received from his supplier.");
-        $('#professional_2_p3 ').text("With the developed application, this time dropped to less than 1 minute. The application consists of a web system developed in Python and Flask that receives the .txt or .xml file, and after the transformations, returns to the user an excel file with the data organized with the columns chosen by the user.");
+        $('#professional_2_em ').text("Unilotus Distribuidora de Alimentos Ltda.");
+        $('#professional_2_p1 ').text("Fiz um projeto ETL para organizar os dados recebidos em um arquivo completamente desestruturado.");
+        $('#professional_2_p2 ').text("Meu cliente costumava levar cerca de 5 horas por dia para classificar o arquivo pouco legível que recebia de seu fornecedor.");
+        $('#professional_2_p3 ').text("Com o aplicativo desenvolvido, esse tempo caiu para menos de 1 minuto. A aplicação consiste em um sistema web desenvolvido em Python e Flask que recebe o arquivo .txt ou .xml, e após as transformações, retorna ao usuário um arquivo excel com os dados organizados com as colunas escolhidas pelo usuário.");
 
-        $('#professional_3_em').text("Play Intelligent Systems Ltd.");
-        $('#professional_3_p1').text("At Play Sistemas I worked in all stages of the project (end-to-end), from the initial phase - requirements gathering, to the final publication of the web system. I used the following technologies: HTML, CSS3 and JavaScript for Front-end development; C#, ASP.NET, Entity Framework for Back-end development; PL/SQL for database manipulation; API development for integration of the company's system with industrial machines using low-level programming; Microsoft Azure for versioning and publishing the site to cloud services.");
-        $('#professional_3_p2').text("I had contact with optimization and genetic algorithms, database migration and several other advanced computing topics. However, the biggest lesson I had and that I take as a lesson was: “Be an expert in the company's business and a problem solver”, and indeed, these are essential qualities for an IT professional.");
+        $('#professional_3_em').text("Play Sistemas Inteligentes Ltda.");
+        $('#professional_3_p1').text("Na Play Sistemas atuei em todas as etapas do projeto (end-to-end), desde a fase inicial - levantamento de requisitos, até a publicação final do sistema web. Utilizei as seguintes tecnologias: HTML, CSS3 e JavaScript para desenvolvimento Front-end; C#, ASP.NET, Entity Framework para desenvolvimento Back-end; PL/SQL para manipulação de banco de dados; Desenvolvimento de API para integração do sistema da empresa com máquinas industriais utilizando programação de baixo nível; Microsoft Azure para controle de versão e publicação do site em serviços de nuvem.");
+        $('#professional_3_p2').text("Tive contato com otimização e algoritmos genéticos, migração de banco de dados e vários outros tópicos de computação avançada. No entanto, a maior lição que tive e que levo como lição foi: “Seja um especialista no negócio da empresa e um resolvedor de problemas”, e de fato, essas são qualidades essenciais para um profissional de TI.");
 
 
         /*************** COURSES ***************/
