@@ -161,11 +161,11 @@ $(document).ready(function(){
         $('#courses_9_a').text('Ir até o curso');
 
 
-        $('#courses_10_h4').text('1st Business Games Tournament - INOVA');
-        $('#courses_10_h5').text('April 2022');
+        $('#courses_10_h4').text('1º TORNEIO DE JOGOS EMPRESARIAIS - INOVA');
+        $('#courses_10_h5').text('Abril 2022');
         $('#courses_10_em').text('Inova Prudente');
-        $('#courses_10_p1').text("With the aim of encouraging the learning of business concepts, in addition to generating connections between participants, the Mayor's Office of Presidente Prudente, through the Inova Foundation, launched for the first time in the region, an edition of a Business Games Tournament.");
-        $('#courses_10_p2').text('The objective of the competition was to allow participants to simulate the management of a company in a highly competitive and interactive environment, making different business decisions based on news, reports and management charts.');
+        $('#courses_10_p1').text("Com o objetivo de estimular o aprendizado de conceitos empresariais, além de gerar conexões entre os participantes, a Prefeitura de Presidente Prudente, através da Fundação Inova, lançou pela primeira vez na região, uma edição de um Torneio de Jogos Empresariais.");
+        $('#courses_10_p2').text('O objetivo da competição foi permitir que os participantes simulem a gestão de uma empresa em um ambiente altamente competitivo e interativo, tomando diversas decisões do negócio com base em notícias, relatórios e gráficos gerenciais.');
         $('#courses_10_a').text('Ir até o curso');
 
 
