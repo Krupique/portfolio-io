@@ -256,6 +256,13 @@ $(document).ready(function(){
         $('#courses_20_ul').html(courses_20_ul);
         $('#courses_20_a').text('Ir até o curso');
 
+        $('#courses_21_h4').text('SQL PARA DATA SCIENCE');
+        $('#courses_21_h5').text('Maio 2023');
+        $('#courses_21_em').text('DSA - Data Science Academy');
+        $('#courses_21_p1').text('Curso 3/3 da Formação Analista de Dados da Data Science Academy');
+        $('#courses_21_p2').text('Curso que abrange desde o mais básico até níveis avançados de SQL focado na resolução de problemas de ciência de dados.');
+        $('#courses_21_a').text('Ir até o curso');
+
         /*************** CONTACT ***************/
         $('#contact_address').text('Endere;o');
         $('#contact_phone').text('Telefone');

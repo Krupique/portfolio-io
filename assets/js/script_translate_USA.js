@@ -257,6 +257,13 @@ $(document).ready(function(){
         $('#courses_20_ul').html(courses_20_ul);
         $('#courses_20_a').text('Go to the course');
 
+        $('#courses_21_h4').text('SQL FOR DATA SCIENCE');
+        $('#courses_21_h5').text('May 2023');
+        $('#courses_21_em').text('DSA - Data Science Academy');
+        $('#courses_21_p1').text('Course 1/3 of the Data Science Academy Data Analyst Training');
+        $('#courses_21_p2').text('Course ranging from the most basic to advanced levels of SQL focused on solving data science problems.');
+        $('#courses_21_a').text('Go to the course');
+
         /*************** CONTACT ***************/
         $('#contact_address').text('Address');
         $('#contact_phone').text('Phone');
