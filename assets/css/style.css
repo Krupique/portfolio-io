@@ -64,12 +64,12 @@ p {
 }
 
 ::-moz-selection {
-    background: #246b4b;
+    background: #00517C;
     color: #fff;
 }
 
 ::selection {
-    background: #246b4b;
+    background: #00517C;
     color: #fff;
 }
 
@@ -141,7 +141,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-    background: #246b4b;
+    background: #00517C;
 }
 
 .mb-30 {
@@ -153,7 +153,7 @@ p {
 }
 
 .icon-color {
-    color: #246b4b;
+    color: #00517C;
 }
 
 .fluid-logo {
@@ -173,7 +173,7 @@ p {
     right: 15px;
     bottom: 15px;
     z-index: 996;
-    background: #246b4b;
+    background: #C1121F;
     width: 40px;
     height: 40px;
     border-radius: 4px;
@@ -350,7 +350,7 @@ p {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-    color: #246b4b;
+    color: #C1121F;
 }
 
 .navbar .dropdown:hover>ul {
@@ -449,7 +449,7 @@ p {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-    color: #246b4b;
+    color: #C1121F;
 }
 
 .navbar-mobile .getstarted,
@@ -484,7 +484,7 @@ p {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-    color: #246b4b;
+    color: #C1121F;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -516,7 +516,7 @@ p {
     font-weight: 700;
     margin-bottom: 10px;
     text-transform: uppercase;
-    color: #246b4b;
+    color: #00517C;
 }
 
 .hero-content p {
@@ -525,7 +525,7 @@ p {
     margin-top: 0;
     margin-bottom: 30px;
     text-transform: capitalize;
-    color: #246b4b;
+    color: #C1121F;
     font-weight: 500;
 }
 
@@ -535,7 +535,7 @@ p {
 }
 
 .hero-content .list-social li i {
-    color: #246b4b;
+    color: #C1121F;
     font-size: 15px;
 }
 
@@ -545,7 +545,7 @@ p {
         font-weight: 700;
         margin-bottom: 10px;
         text-transform: uppercase;
-        color: #246b4b;
+        color: #780000;
     }
 
     .hero-content p {
@@ -554,7 +554,7 @@ p {
         margin-top: 0;
         margin-bottom: 30px;
         text-transform: capitalize;
-        color: #246b4b;
+        color: #780000;
         font-weight: 500;
     }
     
@@ -637,7 +637,7 @@ p {
 
 .about .div-img-bg {
     padding-bottom: 30px;
-    border: 20px solid #246b4b;
+    border: 20px solid #780000;
 }
 
 .about .div-img-bg .about-img img {
@@ -692,7 +692,7 @@ p {
 
 .services-block i {
     font-size: 44px;
-    color: #246b4b;
+    color: #00517C;
     line-height: 44px;
 }
 
@@ -706,11 +706,11 @@ p {
     height: 12px;
     background-color: #fff;
     opacity: 1;
-    border: 1px solid #246b4b;
+    border: 1px solid #00517C;
 }
 
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-    background-color: #246b4b;
+    background-color: #00517C;
 }
 
 
@@ -797,7 +797,7 @@ p {
     right: 40px;
     font-size: 24px;
     top: calc(50% - 18px);
-    color: #246b4b;
+    color: #00517C;
     margin: 0 auto;
 }
 
@@ -864,11 +864,11 @@ p {
     height: 12px;
     background-color: #fff;
     opacity: 1;
-    border: 1px solid #246b4b;
+    border: 1px solid #00517C;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-    background-color: #246b4b;
+    background-color: #00517C;
 }
 
 .portfolio-details .portfolio-info {
@@ -957,7 +957,7 @@ p {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-    color: #246b4b;
+    color: #00517C;
     transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1005,7 +1005,7 @@ p {
 .resume .resume-item {
     padding: 0 10px 10px 20px;
     margin-top: -2px;
-    border-left: 2px solid #246b4b;
+    border-left: 2px solid #00517C;
     position: relative;
 }
 
@@ -1064,7 +1064,7 @@ p {
     left: -9px;
     top: 0;
     background: #fff;
-    border: 2px solid #246b4b;
+    border: 2px solid #00517C;
 }
 
 .link-curso {
@@ -1080,7 +1080,7 @@ p {
         margin-left: -25px;
         margin-top: -15px;
         float: left;
-        border: 2px solid #246b4b;
+        border: 2px solid #00517C;
         z-index: 2;
         /* 50% do tamanho do elemento pai */
     }
@@ -1157,7 +1157,7 @@ p {
 }
 
 .journal-txt h4 a:hover {
-    color: #246b4b;
+    color: #00517C;
     transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1245,7 +1245,7 @@ blockquote {
     background-color: #f2f2f2;
     margin: 30px 0;
     border: none;
-    border-left: 4px solid #246b4b;
+    border-left: 4px solid #00517C;
 }
 
 
@@ -1304,7 +1304,7 @@ blockquote {
 }
 
 .footer .socials-media ul li a:hover {
-    color: #246b4b;
+    color: #00517C;
     transition: all 0.5s ease-in-out 0s;
 }
 
