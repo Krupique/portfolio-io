@@ -114,9 +114,9 @@ p {
 
 .form-control {
     background-color: transparent;
-    border: 1px solid #999;
+    border: 1px solid #eee;
     border-radius: 0;
-    color: #999999;
+    color: #eeeeee;
     font-size: 12px;
     font-weight: 500;
     height: 50px;
@@ -195,7 +195,7 @@ p {
 }
 
 .back-to-top:hover {
-    background: #3EB881;
+    background: #00517C;
     color: #fff;
 }
 
@@ -324,7 +324,7 @@ p {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-    color: #3EB881;
+    color: #00517C;
 }
 
 .navbar .dropdown ul {
@@ -562,7 +562,7 @@ p {
         margin-top: 0;
         margin-bottom: 30px;
         text-transform: capitalize;
-        color: #780000;
+        color: #C1121F;
         font-weight: 500;
     }
     
@@ -645,7 +645,7 @@ p {
 
 .about .div-img-bg {
     padding-bottom: 30px;
-    border: 20px solid #780000;
+    border: 20px solid #C1121F;
 }
 
 .about .div-img-bg .about-img img {
@@ -700,7 +700,7 @@ p {
 
 .services-block i {
     font-size: 44px;
-    color: #00517C;
+    color: #C1121F;
     line-height: 44px;
 }
 
@@ -714,11 +714,11 @@ p {
     height: 12px;
     background-color: #fff;
     opacity: 1;
-    border: 1px solid #00517C;
+    border: 1px solid #C1121F;
 }
 
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-    background-color: #00517C;
+    background-color: #C1121F;
 }
 
 
@@ -748,14 +748,14 @@ p {
     font-weight: 600;
     line-height: 1;
     text-transform: uppercase;
-    color: #777;
+    color: #666;
     margin-bottom: 20px;
     transition: all 0.3s ease-in-out;
 }
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-    color: #3EB881;
+    color: #C1121F;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -775,25 +775,25 @@ p {
     bottom: 0;
     z-index: 3;
     transition: all ease-in-out 0.3s;
-    background: rgba(36, 107, 75, 0.95);
+    background: #00517C;
     padding: 10px;
     text-align: center;
 }
 
 .portfolio .portfolio-item .portfolio-info .portfolio-info-text {
-    color: #BBB;
+    color: #FFF;
     text-align: justify;
 }
 
 .portfolio .portfolio-item .portfolio-info h4 {
     font-size: 15px;
-    color: rgb(226, 226, 226);
+    color: #EEE;
     font-weight: 600;
     margin-bottom: 10px;
 }
 
 .portfolio .portfolio-item .portfolio-info p {
-    color: rgb(201, 201, 201);
+    color: #AAA;
     font-size: 13px;
     margin: 0;
     padding: 0;
@@ -805,13 +805,13 @@ p {
     right: 40px;
     font-size: 24px;
     top: calc(50% - 18px);
-    color: #00517C;
+    color: #C1121F;
     margin: 0 auto;
 }
 
 .portfolio .portfolio-item .portfolio-info .preview-link:hover,
 .portfolio .portfolio-item .portfolio-info .details-link:hover {
-    color: #3EB881;
+    color: #C1121F;
 }
 
 .portfolio .portfolio-item .portfolio-info .details-link {
@@ -872,11 +872,11 @@ p {
     height: 12px;
     background-color: #fff;
     opacity: 1;
-    border: 1px solid #00517C;
+    border: 1px solid #C1121F;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-    background-color: #00517C;
+    background-color: #C1121F;
 }
 
 .portfolio-details .portfolio-info {
@@ -965,7 +965,7 @@ p {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-    color: #00517C;
+    color: #C1121F;
     transition: all 0.5s ease-in-out 0s;
 }
 
@@ -1013,7 +1013,7 @@ p {
 .resume .resume-item {
     padding: 0 10px 10px 20px;
     margin-top: -2px;
-    border-left: 2px solid #00517C;
+    border-left: 2px solid #C1121F;
     position: relative;
 }
 
@@ -1043,12 +1043,12 @@ p {
 
 .resume .resume-item h5 {
     font-size: 14px;
-    background: #d4ffec;
+    background: #d8f1ff;
     padding: 5px 15px;
     display: inline-block;
     font-weight: 600;
     margin-bottom: 10px;
-    color: #444;
+    color: #00517C;
 }
 
 .resume .resume-item ul {
@@ -1234,7 +1234,7 @@ p {
 
 .entry-comments span a {
     font-size: 13px;
-    color: #999;
+    color: #eee;
 }
 
 .entry-comments-reply {
@@ -1253,7 +1253,7 @@ blockquote {
     background-color: #f2f2f2;
     margin: 30px 0;
     border: none;
-    border-left: 4px solid #00517C;
+    border-left: 4px solid #C1121F;
 }
 
 
@@ -1278,13 +1278,13 @@ blockquote {
 --------------------------------------------------------------*/
 
 .footer {
-    background-color: #102e20;
+    background-color: #00517C;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
 .icon-footer-color {
-    color: #ddd;
+    color: #fff;
 }
 
 .footer .socials-media {
@@ -1304,7 +1304,7 @@ blockquote {
 
 .footer .socials-media ul li a {
     font-size: 24px;
-    color: #999;
+    color: #ddd;
     letter-spacing: 0.1em;
     font-weight: 500;
     text-transform: uppercase;
@@ -1338,6 +1338,7 @@ blockquote {
 
 .footer p {
     text-align: center;
+    color: #ddd;
 }
 
 
@@ -1418,6 +1419,7 @@ blockquote {
         margin-right: 0;
         margin-left: 0;
         float: none;
+        color: #fff;
         display: inline-block;
     }
 }
@@ -1490,6 +1492,7 @@ blockquote {
         margin-right: 0;
         margin-left: 0;
         float: none;
+        color: #fff;
         display: inline-block;
     }
 }
@@ -1633,6 +1636,7 @@ blockquote {
         margin-right: 0;
         margin-left: 0;
         float: none;
+        color: #fff;
         display: inline-block;
     }
 }
