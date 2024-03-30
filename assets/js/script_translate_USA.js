@@ -9,7 +9,7 @@ $(document).ready(function(){
         $('#header_about').text('About');
         $('#header_portfolio').text('Portfolio');
         $('#header_blog').text('Blog');
-        $('#header_resume').text('Resume');
+        $('#header_resume').text('Summary');
         $('#header_contact').text('Contact');
 
 
@@ -42,7 +42,7 @@ $(document).ready(function(){
         
         /*************** BLOG ***************/
         /*************** RESUME ***************/
-        $('#resume_title').text("RESUME");
+        $('#resume_title').text("Summary");
         $('#resume_p1').text("For two years I was part of a company that provides Industry 4.0 services to industries in the packaging sector. I worked on the development of a SAP, with participation in all stages of the project, from the initial phase - 𝗰𝗼𝗹𝗲𝘁𝗮 𝗱𝗲 𝗿𝗲𝗾𝘂𝗶𝘀𝗶𝘁𝗼𝘀, until the final publication of the web system. I used the following technologies: HTML, CSS and JavaScript for Front-end; 𝗖#, 𝗔𝗦𝗣.𝗡𝗘𝗧 and 𝗘𝗻𝘁𝗶𝘁𝘆 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 for Back-end; 𝗦𝗤𝗟 for database. Low-level language for developing APIs for web system integration with industrial machines; 𝗔𝘇𝘂𝗿𝗲 and 𝗚𝗶𝘁 for version control and website publishing on cloud services. 📈");
         $('#resume_p2').text("I value the quality of development by applying concepts of good programming and project management practices. I have experience with object-oriented programming (𝗣𝗢𝗢) and application of agile methodologies, using 𝗞𝗮𝗻𝗯𝗮𝗻 to organize activities and 𝗦𝗖𝗥𝗨𝗠 for project development.");
         $('#resume_p3').text("I am currently 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 at 𝘼𝙢𝙚𝙧𝙞𝙘𝙖𝙣𝙖𝙨 𝙎𝘼 and I am part of the Regionalization team, whose responsibilities are in defining the logistics regions used in search and freight calculations. Our goal is to constantly seek to improve delivery times, using georeferencing models and tools to cluster demand and optimize services.");
@@ -81,7 +81,7 @@ $(document).ready(function(){
         /*************** COURSES ***************/
         $('#courses').text('Courses');
         $('#courses_1_h4').text('Data Analysis with Python');
-        $('#courses_1_h5').text('(In progress)');
+        $('#courses_1_h5').text('(July 2023)');
         $('#courses_1_em').text('DSA - Data Science Academy');
         $('#courses_1_p1').text('Course 3/3 of the Data Science Academy Data Analyst Training');
         $('#courses_1_p2').text('During the training students will acquire fundamental skills of a Data Analyst: how to handle missing values, how to clean and process data, how to perform descriptive statistical analysis, how to apply binarization and encoding of categorical variables, attribute engineering and much more.');
