@@ -51,8 +51,8 @@ $(document).ready(function(){
         $('#education').text("Education");
         $('#education_h1').text("Bachelor of Computer Science");
         $('#education_em').text("University of West Paulista, Presidente Prudente, SP");
-        $('#education_p1').text("During college I participated in programming marathons, Hackathons and various events in the field of computing.");
-        $('#education_p2').text("My graduation project was focused on Computer Vision, in which I applied the use of Artificial Intelligence to identify and monitor individuals through video and identify movements that could mean a possible criminal act.");
+        $('#education_p1').text("During college, I participated in programming marathons, hackathons, and various events in the field of computer science.");
+        $('#education_p2').text("My graduation project focused on Computer Vision, where I applied the use of Artificial Intelligence to identify and monitor individuals through video and detect movements that could indicate a potential criminal act.");
         var link_article = '<em><a target="_blank" id="education_a1" href="assets/docs/ArtigoFinal.pdf">Use of Deep Learning applied in the recognition of human actions from high resolution videos in order to identify suspicious movements</a></em>';
         $('#education_p3').html("You can read my scientific article here: " + link_article);
         $('#education_l1').text("Participation in several SBC programming marathons;");
@@ -62,17 +62,16 @@ $(document).ready(function(){
         /*************** EXPERIENCE ***************/
         $('#professional_1').text("Professional Experience");
         $('#professional_1_h5 ').text("2022 - current");
-        $('#professional_1_p1').text("I currently work as a Data Analyst at Americanas S.A. Americanas S.A. is the result of the merger between Lojas Americanas and B2W. It owns the biggest brands on the Internet (Americanas.com, Submarino, Shoptime and SouBarato), with a marketplace, logistics and fintech operation linked to more than 1700 physical stores throughout Brazil.");
-        $('#professional_1_p2').text("I'm part of the Regionalization team, whose responsibilities are in defining the regions used in freight calculations, delivery logistics and search. Our goal is to constantly seek to improve delivery times, using georeferencing models and tools to cluster our demand and optimize our services.");
+        $('#professional_1_p1').text("I currently work as a Data Scientist and Engineer at Americanas S.A. Americanas S.A. is the result of the merger between Lojas Americanas and B2W. It owns the biggest brands on the Internet (Americanas.com, Submarino, Shoptime and SouBarato), with a marketplace, logistics and fintech operation linked to more than 1700 physical stores throughout Brazil.");
+        $('#professional_1_p2').text("I work on data management, development, and deployment of Machine Learning and Artificial Intelligence models for the Pricing team. Our focus is on setting prices for products in physical stores, aiming to optimize sales and maximize profits.");
 
         $('#professional_2_em ').text("Unilotus Food Distributor Ltd.");
-        $('#professional_2_p1 ').text("I made an ETL project to organize the received data into a completely unstructured file.");
-        $('#professional_2_p2 ').text("My client used to take about 5 hours a day to sort the poorly readable file he received from his supplier.");
-        $('#professional_2_p3 ').text("With the developed application, this time dropped to less than 1 minute. The application consists of a web system developed in Python and Flask that receives the .txt or .xml file, and after the transformations, returns to the user an excel file with the data organized with the columns chosen by the user.");
+        $('#professional_2_p1 ').text("I developed an ETL project to organize data received in a completely unstructured file. Previously, my client spent about 5 hours per day sorting through the unreadable file received from their supplier. With the developed application, this time has been reduced to less than 1 minute.");
+        $('#professional_2_p2 ').text("The application is a web system developed in Python and Flask that receives either a .txt or .xml file. After transformations, it returns to the user an Excel file with the data organized into columns chosen by the user.");
 
         $('#professional_3_em').text("Play Intelligent Systems Ltd.");
-        $('#professional_3_p1').text("At Play Sistemas I worked in all stages of the project (end-to-end), from the initial phase - requirements gathering, to the final publication of the web system. I used the following technologies: HTML, CSS3 and JavaScript for Front-end development; C#, ASP.NET, Entity Framework for Back-end development; PL/SQL for database manipulation; API development for integration of the company's system with industrial machines using low-level programming; Microsoft Azure for versioning and publishing the site to cloud services.");
-        $('#professional_3_p2').text("I had contact with optimization and genetic algorithms, database migration and several other advanced computing topics. However, the biggest lesson I had and that I take as a lesson was: “Be an expert in the company's business and a problem solver”, and indeed, these are essential qualities for an IT professional.");
+        $('#professional_3_p1').text("At Play Sistemas, I worked on all stages of the project (end-to-end), from the initial phase - requirements gathering, to the final deployment of the web system. I used the following technologies: HTML, CSS3, and JavaScript for Front-end development; C#, ASP.NET, Entity Framework for Back-end development; PL/SQL for database manipulation; Development of APIs for integration of the company's system with industrial machines using low-level programming; Microsoft Azure for version control and website deployment on cloud services.");
+        $('#professional_3_p2').text(`I worked with optimization and genetic algorithms, database migration, and various other topics in advanced computing. However, the most valuable lesson I learned and carry forward was: "Be an expert in the company's business and a problem solver," and indeed, these are essential qualities for an IT professional.`);
 
 
         /*************** COURSES ***************/
