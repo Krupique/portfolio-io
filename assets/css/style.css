@@ -22,9 +22,9 @@ body {
     /* color: #787878; */
     font-family: "Poppins", helvetica;
     /* font-family: "Playfair Display", sans-serif; */
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 300;
-    line-height: 20px;
+    /* line-height: 20px; */
     letter-spacing: 0.01em;
     overflow-x: hidden;
     margin: 0 auto;
@@ -48,7 +48,7 @@ h2 {
 
 h4 {
     color: #292929;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 600;
 }
 
@@ -86,7 +86,7 @@ p {
     border: medium none;
     border-radius: 0;
     color: #fff;
-    font-size: 12px;
+    font-size: 16px;
     height: 50px;
     line-height: 50px;
     padding: 0 30px;
@@ -117,7 +117,7 @@ p {
     border: 1px solid #eee;
     border-radius: 0;
     color: #eeeeee;
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 500;
     height: 50px;
     letter-spacing: 0.1em;
@@ -659,20 +659,19 @@ p {
     object-fit: cover;
     margin-bottom: 5%;
     border-radius: 50%;
-
-
 }
 
 .about .about-descr .p-heading {
     /* font-family: "Playfair Display", serif; */
     font-family: "Poppins", helvetica;
     font-size: 28px;
+    font-weight: bold;
     text-align: left;
-    color: #333;
+    color: #444;
 }
 
 .about .about-descr .separator {
-    max-width: 80%;
+    max-width: 95%;
     margin-bottom: 0;
     text-align: left;
 }
@@ -692,7 +691,7 @@ p {
     margin: 10px 0;
     position: relative;
     font-size: 18px;
-    color: #292929;
+    color: #444;
     /* letter-spacing: 0.1em; */
     font-weight: 500;
     text-transform: uppercase;
@@ -751,11 +750,11 @@ p {
     cursor: pointer;
     display: inline-block;
     padding: 10px 15px 0px 15px;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 600;
     line-height: 1;
     text-transform: uppercase;
-    color: #666;
+    color: #444;
     margin-bottom: 20px;
     transition: all 0.3s ease-in-out;
 }
@@ -793,7 +792,7 @@ p {
 }
 
 .portfolio .portfolio-item .portfolio-info h4 {
-    font-size: 15px;
+    font-size: 16px;
     color: #EEE;
     font-weight: 600;
     margin-bottom: 10px;
@@ -801,7 +800,7 @@ p {
 
 .portfolio .portfolio-item .portfolio-info p {
     color: #AAA;
-    font-size: 13px;
+    font-size: 16px;
     margin: 0;
     padding: 0;
     text-align: left;
@@ -842,85 +841,18 @@ p {
 .portfolio-caption-heading {
     text-align: center;
     display: block;
-    font-size: 14px;
-    line-height: 15px;
+    font-size: 16;
+    /* line-height: 15px; */
     font-weight: 500;
-    color: #292929;
+    color: #444;
 }
 
 .portfolio-caption-subheading {
     text-align: center;
     display: block;
-    font-size: 13px;
-    line-height: 15px;
-    color: #898989;
-}
-
-
-/*--------------------------------------------------------------
-# Portfolio Details
---------------------------------------------------------------*/
-
-.portfolio-details {
-    padding-top: 40px;
-}
-
-.portfolio-details .portfolio-details-slider img {
-    width: 100%;
-}
-
-.portfolio-details .portfolio-details-slider .swiper-pagination {
-    margin-top: 20px;
-    position: relative;
-}
-
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
-    width: 12px;
-    height: 12px;
-    background-color: #fff;
-    opacity: 1;
-    border: 1px solid #C1121F;
-}
-
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-    background-color: #C1121F;
-}
-
-.portfolio-details .portfolio-info {
-    padding: 30px;
-    box-shadow: 0px 0 30px rgba(75, 74, 74, 0.08);
-}
-
-.portfolio-details .portfolio-info h3 {
-    font-size: 22px;
-    font-weight: 700;
-    margin-bottom: 20px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid #eee;
-}
-
-.portfolio-details .portfolio-info ul {
-    list-style: none;
-    padding: 0;
-    font-size: 15px;
-}
-
-.portfolio-details .portfolio-info ul li+li {
-    margin-top: 10px;
-}
-
-.portfolio-details .portfolio-description {
-    padding-top: 30px;
-}
-
-.portfolio-details .portfolio-description h2 {
-    font-size: 26px;
-    font-weight: 700;
-    margin-bottom: 20px;
-}
-
-.portfolio-details .portfolio-description p {
-    padding: 0;
+    font-size: 16px;
+    /* line-height: 15px; */
+    color: #666;
 }
 
 
@@ -978,7 +910,7 @@ p {
 
 .journal-block .journal-info .journal-txt p {
     margin: 0;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
 }
 
@@ -990,18 +922,16 @@ p {
 .journal-caption-heading {
     text-align: justify;
     display: block;
-    font-size: 14px;
-    line-height: 15px;
+    font-size: 16px;
     font-weight: 500;
-    color: #292929;
+    color: #444;
 }
 
 .journal-caption-subheading {
     text-align: justify;
     display: block;
-    font-size: 13px;
-    line-height: 15px;
-    color: #898989;
+    font-size: 16px;
+    color: #666;
 }
 
 
@@ -1049,7 +979,7 @@ p {
 }
 
 .resume .resume-item h5 {
-    font-size: 14px;
+    font-size: 16px;
     background: #d8f1ff;
     padding: 5px 15px;
     display: inline-block;
@@ -1130,139 +1060,6 @@ p {
 }
 
 
-/*-----------------------------------------------------------------------------------*/
-
-
-/*  /* Single page */
-
-
-/*-----------------------------------------------------------------------------------*/
-
-
-/* main content */
-
-.main-content {
-    background: #f7f7f7;
-}
-
-.main-content .container-main {
-    display: inline-block;
-    width: 100%;
-}
-
-.main-content .container-main .block-main {
-    margin-bottom: 30px;
-    overflow: hidden;
-}
-
-.container-main .block-main .content-main {
-    background: #fff none repeat scroll 0 0;
-    display: inline-block;
-    width: 100%;
-}
-
-.journal-txt h4 a {
-    display: block;
-    font-size: 19px;
-    line-height: 24px;
-    margin: 0 0 13px 0;
-    font-weight: 500;
-    color: #292929;
-    transition: all 0.5s ease-in-out 0s;
-}
-
-.journal-txt h4 a:hover {
-    color: #00517C;
-    transition: all 0.5s ease-in-out 0s;
-}
-
-.post-meta ul li {
-    font-size: 12px;
-    font-weight: normal;
-    margin-left: 8px;
-    margin-right: 8px;
-    text-transform: capitalize;
-    display: inline-block;
-    float: none;
-}
-
-.content-main .post-meta a {
-    color: #a2a2a2;
-    margin-left: 5px;
-}
-
-
-/* Commonts */
-
-.comments {
-    background: #fff;
-}
-
-.entry-comments h6 {
-    margin-right: 10px;
-    font-size: 13px;
-    letter-spacing: 0.1em;
-    font-weight: 500;
-}
-
-.entry-comments-item {
-    margin-top: 40px;
-    padding-bottom: 40px;
-    border-bottom: 1px solid #f2f2f2;
-}
-
-.entry-comments-avatar {
-    position: absolute;
-    display: block;
-    border-radius: 50%;
-    width: 60px;
-    height: 60px;
-}
-
-.entry-comments-body {
-    padding-left: 86px;
-}
-
-.entry-comments-author {
-    margin-right: 10px;
-    font-size: 13px;
-    color: #292929;
-    letter-spacing: 0.1em;
-    font-weight: 500;
-}
-
-.rep {
-    font-size: 13px;
-    color: #292929;
-    letter-spacing: 0.1em;
-    font-weight: 500;
-    text-transform: capitalize;
-}
-
-.entry-comments span a {
-    font-size: 13px;
-    color: #eee;
-}
-
-.entry-comments-reply {
-    padding-left: 10%;
-}
-
-
-/* Commonts form */
-
-.cmt {
-    background: #fff;
-}
-
-blockquote {
-    padding: 40px;
-    background-color: #f2f2f2;
-    margin: 30px 0;
-    border: none;
-    border-left: 4px solid #C1121F;
-}
-
 
 /*--------------------------------------------------------------
 # Contact
@@ -1324,7 +1121,7 @@ blockquote {
 }
 
 .footer p {
-    font-size: 12px;
+    font-size: 16px;
     letter-spacing: 0.1em;
     font-weight: 500;
     margin-top: 0;
@@ -1332,7 +1129,7 @@ blockquote {
 }
 
 .credits {
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .list-contact {
