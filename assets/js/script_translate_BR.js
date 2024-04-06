@@ -44,7 +44,7 @@ $(document).ready(function(){
         $('#resume_p1').text("Durante dois anos, eu fui membro de uma empresa especializada em serviços de Indústria 4.0 para empresas do setor de embalagens. Nesse período, atuei como desenvolvedor Full Stack e também fui responsável pela gestão de dados das máquinas industriais. Participei ativamente de uma equipe que desenvolveu um sistema inteligente capaz de coletar dados das máquinas, utilizar inteligência artificial para otimizar tanto a fila de produção quanto a de expedição. Além disso, o sistema abrangeu todas as funcionalidades de um sistema SAP.");
         $('#resume_p2').text("Atualmente eu sou Cientista e Engenheiro de Dados na Americanas e atuo com o gerenciamento dos dados, com o desenvolvimento e implantação de modelos de Machine Learning e Inteligência Artificial para a equipe de Pricing. Nosso foco está em definir os preços dos produtos nas lojas físicas visando a otimização das vendas e a maximização dos lucros.");
         $('#resume_p3').text("Como indivíduo, eu sempre me esforço para dar o meu melhor em tudo o que faço. Acredito que oferecer soluções antes de reclamar ou criticar é um passo importante para mudar o mundo ao seu redor e fazer diferença.");
-        $('#resume_p3').text("Sou apaixonado por aventuras sobre duas rodas, fã de Chopin e adoro tocá-lo no piano, praticante de musculação e um cozinheiro nas horas vagas.");
+        $('#resume_p4').text("Sou apaixonado por aventuras sobre duas rodas, fã de Chopin e adoro tocá-lo no piano, praticante de musculação e um cozinheiro nas horas vagas.");
     
 
         /*************** EDUCATION ***************/
