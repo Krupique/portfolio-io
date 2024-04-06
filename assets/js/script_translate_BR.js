@@ -42,7 +42,7 @@ $(document).ready(function(){
         /*************** RESUME ***************/
         $('#resume_title').text("RESUMO");
         $('#resume_p1').text("Durante dois anos, eu fui membro de uma empresa especializada em serviços de Indústria 4.0 para empresas do setor de embalagens. Nesse período, atuei como desenvolvedor Full Stack e também fui responsável pela gestão de dados das máquinas industriais. Participei ativamente de uma equipe que desenvolveu um sistema capaz de coletar dados das máquinas, utilizar inteligência artificial para gerar e otimizar tanto a fila de produção quanto a de expedição, e além disso, o sistema abrangeu todas as funcionalidades de um sistema SAP.");
-        $('#resume_p2').text("Atualmente eu sou Cientista e Engenheiro de Dados na Americanas e atuo com o gerenciamento dos dados, com o desenvolvimento e implantação de modelos de Machine Learning e Inteligência Artificial para a equipe de Pricing. Nosso foco está em definir os preços dos produtos nas lojas físicas visando a otimização das vendas e a maximização dos lucros.");
+        $('#resume_p2').text("Atualmente eu sou Cientista e Engenheiro de Dados na Americanas e atuo com o gerenciamento dos dados, com o desenvolvimento e implantação de modelos de Machine Learning e Inteligência Artificial para a equipe de Precificação. Nosso foco está em definir os preços dos produtos nas lojas físicas visando a otimização das vendas e a maximização dos lucros.");
         $('#resume_p3').text("Como pessoa, eu sempre me esforço para dar o meu melhor em tudo o que faço. Acredito que oferecer soluções antes de reclamar ou criticar é um passo importante para mudar o mundo ao seu redor e fazer diferença.");
         $('#resume_p4').text("Sou apaixonado por aventuras sobre duas rodas, fã de Chopin e adoro tocá-lo no piano, praticante de musculação e um cozinheiro nas horas vagas.");
     
@@ -61,7 +61,7 @@ $(document).ready(function(){
 
         /*************** EXPERIENCE ***************/
         $('#professional_1').text("Experiência Profissional");
-        $('#professional_1_h5 ').text("2022 - o momento");
+        $('#professional_1_h5 ').text("2022 - atualmente");
         $('#professional_1_p1').text("Atualmente trabalho como Cientista e Engenheiro de Dados na Americanas S.A. A Americanas S.A. é o resultado da fusão entre Lojas Americanas e B2W. Ela detém as maiores marcas da Internet (Americanas.com, Submarino, Shoptime e SouBarato), com um marketplace, logística e operação de fintech vinculada a mais de 1700 lojas físicas em todo o Brasil.");
         $('#professional_1_p2').text("Trabalho no gerenciamento de dados, desenvolvimento e implementação de modelos de Machine Learning e Inteligência Artificial para a equipe de Precificação. Nosso foco está na definição de preços para produtos nas lojas físicas, com o objetivo de otimizar as vendas e maximizar os lucros.");
 
@@ -77,7 +77,7 @@ $(document).ready(function(){
         /*************** COURSES ***************/
         $('#courses').text('Cursos');
         $('#courses_1_h4').text('ANÁLISE DE DADOS COM LINGUAGEM PYTHON');
-        $('#courses_1_h5').text('(Em andamento)');
+        $('#courses_1_h5').text('Julho 2023');
         $('#courses_1_em').text('DSA - Data Science Academy');
         $('#courses_1_p1').text('Curso 3/3 da Formação Analista de Dados da Data Science Academy');
         $('#courses_1_p2').text('Durante o treinamento os alunos vão adquirir habilidades fundamentais de um Analista de Dados: como tratar valores ausentes, como limpar e processar dados, como realizar análise estatística descritiva, como aplicar binarização e encoding de variáveis categóricas, engenharia de atributos e muito mais.');
