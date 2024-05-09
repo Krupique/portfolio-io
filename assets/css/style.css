@@ -71,6 +71,12 @@ p {
     text-align: justify;
 }
 
+li {
+    color: #444;
+    line-height: 28px;
+    text-align: justify;
+}
+
 ::-moz-selection {
     background: #00517C;
     color: #fff;
