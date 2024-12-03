@@ -41,6 +41,30 @@ $(document).ready(function(){
         /*************** BLOG ***************/
         $('#tutorial_p1_1').text('TUTORIAL VIRTUALBOX PARTE 1');
         $('#tutorial_p1_2').text('Como instalar e configurar Linux em uma máquina virtual parte 1/3');
+        
+        $('#tutorial_p2_1').text('');
+        $('#tutorial_p2_2').text('');
+        
+        $('#tutorial_p3_1').text('');
+        $('#tutorial_p3_2').text('');
+        
+        $('#tutorial_p4_1').text('');
+        $('#tutorial_p4_2').text('');
+        
+        $('#tutorial_p5_1').text('');
+        $('#tutorial_p5_2').text('');
+        
+        $('#tutorial_p6_1').text('');
+        $('#tutorial_p6_2').text('');
+        
+        $('#tutorial_p7_1').text('');
+        $('#tutorial_p7_2').text('');
+        
+        $('#tutorial_p8_1').text('');
+        $('#tutorial_p8_2').text('');
+        
+        $('#tutorial_p9_1').text('');
+        $('#tutorial_p0_2').text('');
 
         /*************** RESUME ***************/
         $('#resume_title').text("RESUMO");
