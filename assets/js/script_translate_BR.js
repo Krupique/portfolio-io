@@ -42,29 +42,29 @@ $(document).ready(function(){
         $('#tutorial_p1_1').text('TUTORIAL VIRTUALBOX PARTE 1');
         $('#tutorial_p1_2').text('Como instalar e configurar Linux em uma máquina virtual parte 1/3');
         
-        $('#tutorial_p2_1').text('');
-        $('#tutorial_p2_2').text('');
+        $('#tutorial_p2_1').text('TUTORIAL UBUNTU PARTE 2');
+        $('#tutorial_p2_2').text('Como instalar e configurar Linux em uma máquina virtual parte 2/3');
         
-        $('#tutorial_p3_1').text('');
-        $('#tutorial_p3_2').text('');
+        $('#tutorial_p3_1').text('TUTORIAL CENTOS PARTE 3');
+        $('#tutorial_p3_2').text('Como instalar e configurar Linux em uma máquina virtual parte 3/3');
         
-        $('#tutorial_p4_1').text('');
-        $('#tutorial_p4_2').text('');
+        $('#tutorial_p4_1').text('INSTALAÇÃO E CONFIGURAÇÃO DO HADOOP');
+        $('#tutorial_p4_2').text('Tutorial sobre como instalar e configurar o Hadoop de maneira Pseudo-Distribuída em uma VM.');
         
-        $('#tutorial_p5_1').text('');
-        $('#tutorial_p5_2').text('');
+        $('#tutorial_p5_1').text('INSTALAÇÃO E CONFIGURAÇÃO DO ANACONDA NO LINUX');
+        $('#tutorial_p5_2').text('Tutorial sobre como instalar e configurar o Anaconda Navigator no Linux com a distribuição Ubuntu.');
         
-        $('#tutorial_p6_1').text('');
-        $('#tutorial_p6_2').text('');
+        $('#tutorial_p6_1').text('INSTALAÇÃO E CONFIGURAÇÃO DO VS CODE NO LINUX');
+        $('#tutorial_p6_2').text('Tutorial sobre como instalar e configurar o Visual Studio Code no Linux (CentOS e Ubuntu).');
         
-        $('#tutorial_p7_1').text('');
-        $('#tutorial_p7_2').text('');
+        $('#tutorial_p7_1').text('DETECÇÃO DE OUTLIERS');
+        $('#tutorial_p7_2').text('Detecção de Outliers utilizando técnicas de Análises Univariadas e Multivariadas');
         
-        $('#tutorial_p8_1').text('');
-        $('#tutorial_p8_2').text('');
+        $('#tutorial_p8_1').text('HADOOP MAP REDUCE');
+        $('#tutorial_p8_2').text('Hadoop Map Reduce: O que é, sua arquitetura e como é executado na prática');
         
-        $('#tutorial_p9_1').text('');
-        $('#tutorial_p0_2').text('');
+        $('#tutorial_p9_1').text('A DEEP DIVE INTO TRANSFORMERS ARCHITECTURE');
+        $('#tutorial_p0_2').text('Attention is All You Need');
 
         /*************** RESUME ***************/
         $('#resume_title').text("RESUMO");
