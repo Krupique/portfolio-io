@@ -39,6 +39,9 @@ $(document).ready(function(){
         $('#portfolio_h2').text('PORTFÓLIO');
         
         /*************** BLOG ***************/
+        $('#tutorial_p1_1').text('TUTORIAL VIRTUALBOX PARTE 1');
+        $('#tutorial_p1_2').text('Como instalar e configurar Linux em uma máquina virtual parte 1/3');
+
         /*************** RESUME ***************/
         $('#resume_title').text("RESUMO");
         $('#resume_p1').text("Durante dois anos, eu fui membro de uma empresa especializada em serviços de Indústria 4.0 para empresas do setor de embalagens. Nesse período, atuei como desenvolvedor Full Stack e também fui responsável pela gestão de dados das máquinas industriais. Participei ativamente de uma equipe que desenvolveu um sistema capaz de coletar dados das máquinas, utilizar inteligência artificial para gerar e otimizar tanto a fila de produção quanto a de expedição, e além disso, o sistema abrangeu todas as funcionalidades de um sistema SAP.");
