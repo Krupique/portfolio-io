@@ -104,7 +104,7 @@ $(document).ready(function(){
         /*************** COURSES ***************/
         $('#courses').text('Courses');
         $('#courses_1_h4').text('Data Analysis with Python');
-        $('#courses_1_h5').text('(July 2023)');
+        $('#courses_1_h5').text('July 2023');
         $('#courses_1_em').text('DSA - Data Science Academy');
         $('#courses_1_p1').text('Course 3/3 of the Data Science Academy Data Analyst Training');
         $('#courses_1_p2').text('During the training students will acquire fundamental skills of a Data Analyst: how to handle missing values, how to clean and process data, how to perform descriptive statistical analysis, how to apply binarization and encoding of categorical variables, attribute engineering and much more.');
@@ -286,6 +286,15 @@ $(document).ready(function(){
         $('#courses_21_p1').text('Course 1/3 of the Data Science Academy Data Analyst Training');
         $('#courses_21_p2').text('Course ranging from the most basic to advanced levels of SQL focused on solving data science problems.');
         $('#courses_21_a').text('Go to the course');
+
+        $('#courses_22_h4').text('DEEP LEARNING FOR ARTIFICIAL INTELLIGENCE APPLICATIONS WITH PYTHON AND C++');
+        $('#courses_22_h5').text('October 2024');
+        $('#courses_22_em').text('DSA - Data Science Academy');
+        $('#courses_22_p1').text('Course 1/4 of the Data Science Academy AI Engineer Training');
+        $('#courses_22_p2').html('This course is a comprehensive and advanced program in Artificial Intelligence (AI) and Deep Learning, designed to deliver cutting-edge knowledge and practical skills. It covers foundational AI concepts, neural networks, and advanced applications in fields like Computer Vision, Natural Language Processing, and Financial Analysis. <br/><br/> With 10 hands-on projects, it emphasizes practical learning, focusing on state-of-the-art tools such as the Transformers architecture and the Hugging Face platform. Its dual programming approach integrates Python’s versatility with C++’s high performance, ensuring adaptability for real-time applications and advanced model deployment. <br/><br/> The course also features a detailed case study on the safe use of ChatGPT and includes the creation of a Large Language Model (LLM) from scratch, providing a robust foundation for tackling modern AI challenges. It stands out as a versatile and forward-thinking learning resource.');
+        courses_22_p2 = '<li>Transformers Architecture</li><li>Large Language Models (LLMs)</li><li>Transfer Learning and Fine Tuning</li><li>C++</li>';
+        $('#courses_22_ul').html(courses_22_p2);
+        $('#courses_22_a').text('Go to the course');
 
         /*************** CONTACT ***************/
         $('#contact_address').text('Address');

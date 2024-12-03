@@ -286,6 +286,15 @@ $(document).ready(function(){
         $('#courses_21_p2').text('Curso que abrange desde o mais básico até níveis avançados de SQL focado na resolução de problemas de ciência de dados.');
         $('#courses_21_a').text('Ir até o curso');
 
+        $('#courses_22_h4').text('APRENDIZAGEM PROFUNDA PARA APLICAÇÕES DE INTELIGÊNCIA ARTIFICIAL COM PYTHON E C++');
+        $('#cursos_22_h5').text('Outubro de 2024');
+        $('#courses_22_em').text('DSA -Data Science Academy');
+        $('#courses_22_p1').text('Curso 1/4 da Formação Engenheiro de IA da Data Science Academy');
+        $('#courses_22_p2').html('Este curso é um programa abrangente e avançado em Inteligência Artificial (IA) e Aprendizado Profundo, projetado para fornecer conhecimento de ponta e habilidades práticas. Ele abrange conceitos básicos de IA, redes neurais e aplicações avançadas em áreas como Visão Computacional, Processamento de Linguagem Natural e Análise Financeira.<br/><br/>Com 10 projetos práticos, ele enfatiza o aprendizado prático, com foco em ferramentas de última geração, como os Transformers arquitetura e a plataforma Hugging Face. Sua abordagem de programação dupla integra a versatilidade do Python com o alto desempenho do C++, garantindo adaptabilidade para aplicativos em tempo real e implantação avançada de modelos.<br/><br/>O curso também apresenta um estudo de caso detalhado sobre o cofre uso do ChatGPT e inclui a criação de um Large Language Model (LLM) do zero, fornecendo uma base sólida para lidar com os desafios modernos da IA. Ele se destaca como um recurso de aprendizagem versátil e inovador.');
+        courses_22_ul = '<li>Arquitetura de transformadores</li><li>Modelos de grandes linguagens (LLMs)</li><li>Aprendizagem de transferência e ajuste fino</li><li>C++</li>';
+        $('#courses_22_ul').html(courses_22_ul);
+        $('#courses_22_a').text('Ir para o curso');
+
         /*************** CONTACT ***************/
         $('#contact_address').text('Endere;o');
         $('#contact_phone').text('Telefone');
