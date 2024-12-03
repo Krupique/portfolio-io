@@ -42,6 +42,30 @@ $(document).ready(function(){
         $('#tutorial_p1_1').text('VIRTUALBOX TUTORIAL PART 1');
         $('#tutorial_p1_2').text('How to install and configure Linux in a virtual machine part 1/3');
 
+        $('#tutorial_p2_1').text('');
+        $('#tutorial_p2_2').text('');
+        
+        $('#tutorial_p3_1').text('');
+        $('#tutorial_p3_2').text('');
+        
+        $('#tutorial_p4_1').text('');
+        $('#tutorial_p4_2').text('');
+        
+        $('#tutorial_p5_1').text('');
+        $('#tutorial_p5_2').text('');
+        
+        $('#tutorial_p6_1').text('');
+        $('#tutorial_p6_2').text('');
+        
+        $('#tutorial_p7_1').text('');
+        $('#tutorial_p7_2').text('');
+        
+        $('#tutorial_p8_1').text('');
+        $('#tutorial_p8_2').text('');
+        
+        $('#tutorial_p9_1').text('');
+        $('#tutorial_p0_2').text('');
+
         /*************** RESUME ***************/
         $('#resume_title').text("Summary");
         $('#resume_p1').text("For two years, I was a member of a company specializing in Industry 4.0 services for packaging companies. During this time, I worked as a Full Stack developer and was also responsible for managing data from industrial machines. I actively participated in a team that developed an intelligent system capable of collecting data from machines, to use artificial intelligence to create and to optimize both the production and dispatch queues, and additionally, the system included all the functionalities of an APS system.");
