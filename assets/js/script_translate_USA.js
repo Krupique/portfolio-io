@@ -39,6 +39,9 @@ $(document).ready(function(){
         $('#portfolio_h2').text('PORTFOLIO');
         
         /*************** BLOG ***************/
+        $('#tutorial_p1_1').text('VIRTUALBOX TUTORIAL PART 1');
+        $('#tutorial_p1_2').text('How to install and configure Linux in a virtual machine part 1/3');
+
         /*************** RESUME ***************/
         $('#resume_title').text("Summary");
         $('#resume_p1').text("For two years, I was a member of a company specializing in Industry 4.0 services for packaging companies. During this time, I worked as a Full Stack developer and was also responsible for managing data from industrial machines. I actively participated in a team that developed an intelligent system capable of collecting data from machines, to use artificial intelligence to create and to optimize both the production and dispatch queues, and additionally, the system included all the functionalities of an APS system.");
