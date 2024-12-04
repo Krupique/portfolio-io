@@ -296,6 +296,15 @@ $(document).ready(function(){
         $('#courses_22_ul').html(courses_22_p2);
         $('#courses_22_a').text('Go to the course');
 
+        $('#courses_23_h4').text('GENERATIVE AI AND LLMS FOR NATURAL LANGUAGE PROCESSING');
+        $('#cursos_23_h5').text('November 2024');
+        $('#courses_23_em').text('DSA - Data Science Academy');
+        $('#courses_23_p1').text('Course 3/4 of the Data Science Academy AI Engineer Training');
+        $('#courses_23_p2').html("The course offers a comprehensive journey into the field of Artificial Intelligence (AI), focusing on Generative AI, Large Language Models (LLMs), and Natural Language Processing (NLP). It covers fundamental and advanced topics, such as Transformers, Few-Shot Learning, Transfer Learning, Fine-Tuning, PEFT, LoRa, RLHF, RAG, and Llama 2. <br/><br/>  Through a practical approach, students will explore cutting-edge technologies like OpenAI GPT, LangChain, Open-Source LLMs, and AWS, applying this knowledge to real-world projects to address real-world challenges. <br/><br/>  The course is modular, combining theory and practice, with well-structured chapters followed by practical projects that ensure an immersive experience. It aims to empower students to leverage AI's potential in an ever-evolving job market, emphasizing the importance of extracting insights and automating processes as a critical competitive advantage.");
+        courses_23_ul = '<li>Api GPT-3, GPT-4, Llama, BERT</li><li>Prompt Engineering</li><li>Fine Tuning, Transfer Learning and RAG</li><li>LangChain, PEFT, LORA, QLORA</li><li>Vector Databases, VectorDB, ChromaDB</li>';
+        $('#courses_23_ul').html(courses_23_ul);
+        $('#courses_23_a').text('Go to the course');
+
         /*************** CONTACT ***************/
         $('#contact_address').text('Address');
         $('#contact_phone').text('Phone');
@@ -308,3 +317,4 @@ $(document).ready(function(){
        
     });
 });
+
