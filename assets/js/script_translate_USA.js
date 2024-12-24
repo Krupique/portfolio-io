@@ -305,6 +305,13 @@ $(document).ready(function(){
         $('#courses_23_ul').html(courses_23_ul);
         $('#courses_23_a').text('Go to the course');
 
+        $('#courses_24_h4').text('ARTIFICIAL INTELLIGENCE FOR COMPUTER VISION');
+        $('#cursos_24_h5').text('December 2024');
+        $('#courses_24_em').text('DSA - Data Science Academy');
+        $('#courses_24_p1').text('Course 2/4 of the Data Science Academy AI Engineer Training');
+        $('#courses_24_p2').html('The course delves into Computer Vision, starting from the fundamentals to advanced techniques, with a practical focus on tools like the HuggingFace library, pre-trained model customization, convolutional neural networks (CNNs), and transformers, including Vision Transformers (ViT) and their variations. It also covers state-of-the-art AI techniques, such as "Text-to-Image with Stable Diffusion".');
+        $('#courses_24_a').text('Go to the course');
+
         /*************** CONTACT ***************/
         $('#contact_address').text('Address');
         $('#contact_phone').text('Phone');
