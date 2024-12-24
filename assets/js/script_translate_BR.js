@@ -304,6 +304,13 @@ $(document).ready(function(){
         $('#courses_23_ul').html(courses_23_ul);
         $('#courses_23_a').text('Ir para o curso');
 
+        $('#courses_24_h4').text('INTELIGÊNCIA ARTIFICIAL PARA VISÃO COMPUTACIONAL');
+        $('#cursos_24_h5').text('Dezembro de 2024');
+        $('#courses_24_em').text('DSA - Data Science Academy');
+        $('#courses_24_p1').text('Curso 2/4 da Formação Engenheiro de IA da Data Science Academy');
+        $('#courses_24_p2').html('O curso explora a Visão Computacional, iniciando pelos fundamentos até técnicas avançadas, com foco prático no uso de ferramentas como a biblioteca HuggingFace, personalização de modelos pré-treinados, redes neurais convolucionais (CNNs) e transformers, incluindo Vision Transformers (ViT) e suas variações. Também aborda o estado da arte em IA, como a técnica "De Texto Para Imagem com Stable Diffusion".');
+        $('#courses_24_a').text('Ir para o curso');
+
         
 
         /*************** CONTACT ***************/
