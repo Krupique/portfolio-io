@@ -297,7 +297,7 @@ $(document).ready(function(){
         $('#courses_22_a').text('Go to the course');
 
         $('#courses_23_h4').text('GENERATIVE AI AND LLMS FOR NATURAL LANGUAGE PROCESSING');
-        $('#cursos_23_h5').text('November 2024');
+        $('#courses_23_h5').text('November 2024');
         $('#courses_23_em').text('DSA - Data Science Academy');
         $('#courses_23_p1').text('Course 3/4 of the Data Science Academy AI Engineer Training');
         $('#courses_23_p2').html("The course offers a comprehensive journey into the field of Artificial Intelligence (AI), focusing on Generative AI, Large Language Models (LLMs), and Natural Language Processing (NLP). It covers fundamental and advanced topics, such as Transformers, Few-Shot Learning, Transfer Learning, Fine-Tuning, PEFT, LoRa, RLHF, RAG, and Llama 2. <br/><br/>  Through a practical approach, students will explore cutting-edge technologies like OpenAI GPT, LangChain, Open-Source LLMs, and AWS, applying this knowledge to real-world projects to address real-world challenges. <br/><br/>  The course is modular, combining theory and practice, with well-structured chapters followed by practical projects that ensure an immersive experience. It aims to empower students to leverage AI's potential in an ever-evolving job market, emphasizing the importance of extracting insights and automating processes as a critical competitive advantage.");
@@ -306,11 +306,19 @@ $(document).ready(function(){
         $('#courses_23_a').text('Go to the course');
 
         $('#courses_24_h4').text('ARTIFICIAL INTELLIGENCE FOR COMPUTER VISION');
-        $('#cursos_24_h5').text('December 2024');
+        $('#courses_24_h5').text('December 2024');
         $('#courses_24_em').text('DSA - Data Science Academy');
         $('#courses_24_p1').text('Course 2/4 of the Data Science Academy AI Engineer Training');
         $('#courses_24_p2').html('The course delves into Computer Vision, starting from the fundamentals to advanced techniques, with a practical focus on tools like the HuggingFace library, pre-trained model customization, convolutional neural networks (CNNs), and transformers, including Vision Transformers (ViT) and their variations. It also covers state-of-the-art AI techniques, such as "Text-to-Image with Stable Diffusion".');
         $('#courses_24_a').text('Go to the course');
+
+
+        $('#courses_25_h4').text('FINANCIAL ENGINEERING WITH ARTIFICIAL INTELLIGENCE');
+        $('#courses_25_h5').text('January 2025');
+        $('#courses_25_em').text('DSA - Data Science Academy');
+        $('#courses_25_p1').text('Course 4/4 of the Data Science Academy AI Engineer Training');
+        $('#courses_25_p2').html('The course explores the intersection between Finance and Artificial Intelligence, covering the fundamentals of Financial Engineering and advanced AI techniques applied to the sector. With a modular structure, it spans from basic topics to advanced subjects such as hedging, derivatives, and the use of LLMs. Students develop practical skills through 10 projects based on real-world scenarios, including asset price prediction, sentiment analysis in financial news, fraud detection, and the creation of investor robots. The focus is on equipping professionals to meet the growing demand for data analysis and AI in the financial market.');
+        $('#courses_25_a').text('Go to the course');
 
         /*************** CONTACT ***************/
         $('#contact_address').text('Address');
