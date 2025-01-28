@@ -76,15 +76,15 @@ $(document).ready(function(){
 
         /*************** EDUCATION ***************/
         $('#education').text("Education");
-        $('#education_h1').text("Bachelor of Computer Science");
-        $('#education_em').text("University of West Paulista, Presidente Prudente, SP");
-        $('#education_p1').text("During college, I participated in programming marathons, hackathons, and various events in the field of computer science.");
-        $('#education_p2').text("My graduation project focused on Computer Vision, where I applied the use of Artificial Intelligence to identify and monitor individuals through video and detect movements that could indicate a potential criminal act.");
-        var link_article = '<em><a target="_blank" id="education_a1" href="assets/docs/ArtigoFinal.pdf">Use of Deep Learning applied in the recognition of human actions from high resolution videos in order to identify suspicious movements</a></em>';
-        $('#education_p3').html("You can read my scientific article here: " + link_article);
-        $('#education_l1').text("Participation in several SBC programming marathons;");
-        $('#education_l2').text("Participation in events promoted by the faculty such as Lectures, Short Courses, Hackathons, etc.;");
-        $('#education_l3').text("Collaboration in several voluntary actions during my academic life.");
+        $('#education_1_h1').text("Bachelor of Computer Science");
+        $('#education_1_em').text("University of West Paulista, Presidente Prudente, SP");
+        $('#education_1_p1').text("During college, I participated in programming marathons, hackathons, and various events in the field of computer science.");
+        $('#education_1_p2').text("My graduation project focused on Computer Vision, where I applied the use of Artificial Intelligence to identify and monitor individuals through video and detect movements that could indicate a potential criminal act.");
+        var link_article = '<em><a target="_blank" id="education_1_a1" href="assets/docs/ArtigoFinal.pdf">Use of Deep Learning applied in the recognition of human actions from high resolution videos in order to identify suspicious movements</a></em>';
+        $('#education_1_p3').html("You can read my scientific article here: " + link_article);
+        $('#education_1_l1').text("Participation in several SBC programming marathons;");
+        $('#education_1_l2').text("Participation in events promoted by the faculty such as Lectures, Short Courses, Hackathons, etc.;");
+        $('#education_1_l3').text("Collaboration in several voluntary actions during my academic life.");
 
         /*************** EXPERIENCE ***************/
         $('#professional_1').text("Professional Experience");
