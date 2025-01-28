@@ -86,6 +86,18 @@ $(document).ready(function(){
         $('#education_1_l2').text("Participation in events promoted by the faculty such as Lectures, Short Courses, Hackathons, etc.;");
         $('#education_1_l3').text("Collaboration in several voluntary actions during my academic life.");
 
+        $('#education_2_h1').text("AI ENGINEER TRAINING");
+        $('#education_2_em').text("Data Science Academy, Brazil");
+        $('#education_2_p1').text("This program provided me with both theoretical and practical knowledge of cutting-edge AI techniques in the fields of Natural Language Processing, Computer Vision and Financial Optimization.");
+        $('#education_2_p2').text("Key Learnings:");
+        $('#education_2_l1').text("Deep Learning with Python and C++: Building models from scratch, implementing attention mechanisms, and fine-tuning transformer models for various applications;");
+        $('#education_2_l2').text("Computer Vision: Applying Vision Transformers, image segmentation, and integrating text-to-image generation techniques using Stable Diffusion;");
+        $('#education_2_l3').text("Generative AI and LLMs: Developing personalized assistants with LangChain, fine-tuning open-source LLMs, and creating intelligent agents for practical tasks;");
+        $('#education_2_l4').text("Financial Engineering with AI: Predicting asset prices, detecting fraud, and automating trading strategies using AI.");
+        var link_article = '<em><a target="_blank" id="education_2_a1" href="assets/docs/dsa_fei_certificate.pdf">Certificate of Completion</a></em>';
+        $('#education_2_p3').html("You can see the certificate here: " + link_article);
+
+
         /*************** EXPERIENCE ***************/
         $('#professional_1').text("Professional Experience");
         $('#professional_1_h5 ').text("2022 - current");
