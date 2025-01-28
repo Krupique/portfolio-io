@@ -76,15 +76,15 @@ $(document).ready(function(){
 
         /*************** EDUCATION ***************/
         $('#education').text("Formação");
-        $('#education_h1').text("BACHAREL EM CIÊNCIA DA COMPUTAÇÃO");
-        $('#education_em').text("Universidade do Oeste Paulista, Presidente Prudente, SP");
-        $('#education_p1').text("Durante a faculdade eu participei de maratonas de programação, Hackathons e diversos eventos na área de computação.");
-        $('#education_p2').text("Meu projeto de graduação foi focado na área de Visão Computacional, no qual eu apliquei o uso de Inteligência Artificial para identificar e monitorar indivíduos por meio de vídeo e identificar movimentos que pudessem significar um possível ato criminoso.");
-        var link_article = '<em><a target="_blank" id="education_a1" href="assets/docs/ArtigoFinal.pdf">Uso de Deep Learning aplicado no reconhecimento de ações humanas a partir de vídeos em alta resolução visando identificar movimentos suspeitos</a></em>';
-        $('#education_p3').html("Você pode ler meu artigo científico aqui: " + link_article);
-        $('#education_l1').text("Participação e várias maratonas de programação SBC;");
-        $('#education_l2').text("Participação em eventos promovidos pela faculdade como Palestras, Minicursos, Hackathons, etc..;");
-        $('#education_l3').text("Colaboração em diversas ações voluntárias durante minha vida acadêmica.");
+        $('#education_1_h1').text("BACHAREL EM CIÊNCIA DA COMPUTAÇÃO");
+        $('#education_1_em').text("Universidade do Oeste Paulista, Presidente Prudente, SP");
+        $('#education_1_p1').text("Durante a faculdade eu participei de maratonas de programação, Hackathons e diversos eventos na área de computação.");
+        $('#education_1_p2').text("Meu projeto de graduação foi focado na área de Visão Computacional, no qual eu apliquei o uso de Inteligência Artificial para identificar e monitorar indivíduos por meio de vídeo e identificar movimentos que pudessem significar um possível ato criminoso.");
+        var link_article = '<em><a target="_blank" id="education_1_a1" href="assets/docs/ArtigoFinal.pdf">Uso de Deep Learning aplicado no reconhecimento de ações humanas a partir de vídeos em alta resolução visando identificar movimentos suspeitos</a></em>';
+        $('#education_1_p3').html("Você pode ler meu artigo científico aqui: " + link_article);
+        $('#education_1_l1').text("Participação e várias maratonas de programação SBC;");
+        $('#education_1_l2').text("Participação em eventos promovidos pela faculdade como Palestras, Minicursos, Hackathons, etc..;");
+        $('#education_1_l3').text("Colaboração em diversas ações voluntárias durante minha vida acadêmica.");
 
         /*************** EXPERIENCE ***************/
         $('#professional_1').text("Experiência Profissional");
