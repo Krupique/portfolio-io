@@ -86,6 +86,18 @@ $(document).ready(function(){
         $('#education_1_l2').text("Participação em eventos promovidos pela faculdade como Palestras, Minicursos, Hackathons, etc..;");
         $('#education_1_l3').text("Colaboração em diversas ações voluntárias durante minha vida acadêmica.");
 
+        $('#education_2_h1').text("FORMAÇÃO ENGENHEIRO DE IA");
+        $('#education_2_em').text("Data Science Academy, Brasil");
+        $('#education_2_p1').text("Este programa me proporcionou conhecimento teórico e prático das técnicas mais atuais de IA nas áreas de Processamento de Linguagem Natural, Visão Computacional e Otimização Financeira.");
+        $('#education_2_p2').text("Principais Aprendizados:");
+        $('#education_2_l1').text("Aprendizado profundo com Python e C++: construindo modelos do zero, implementando mecanismos de atenção e ajustando modelos de transformadores para diversas aplicações;");
+        $('#education_2_l2').text("Visão Computacional: Aplicação de Transformadores de Visão, segmentação de imagens e integração de técnicas de geração de texto para imagem usando Difusão Estável;");
+        $('#education_2_l3').text("IA generativa e LLMs: desenvolvimento de assistentes personalizados com LangChain, ajuste fino de LLMs de código aberto e criação de agentes inteligentes para tarefas práticas;");
+        $('#education_2_l4').text("Engenharia financeira com IA: previsão de preços de ativos, detecção de fraudes e automação de estratégias de negociação usando IA.");
+        var link_article = '<em><a target="_blank" id="education_2_a1" href="assets/docs/dsa_fei_certificate.pdf">Certificado de Conclusão</a></em>';
+        $('#education_2_p3').html("Você pode ver o certificado aqui: " + link_article);
+        
+
         /*************** EXPERIENCE ***************/
         $('#professional_1').text("Experiência Profissional");
         $('#professional_1_h5 ').text("2022 - atualmente");
