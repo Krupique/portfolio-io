@@ -330,6 +330,12 @@ $(document).ready(function(){
         $('#courses_25_p2').html('O curso explora a interseção entre Finanças e Inteligência Artificial, abordando fundamentos da Engenharia Financeira e técnicas avançadas de IA aplicadas ao setor. Com uma estrutura modular, cobre desde temas básicos até tópicos avançados como hedging, derivativos e uso de LLMs. Os alunos desenvolvem habilidades práticas por meio de 10 projetos baseados em cenários reais, incluindo previsão de preços de ativos, análise de sentimento em notícias financeiras, detecção de fraudes e criação de robôs investidores. O foco é capacitar profissionais para lidar com a crescente demanda por análise de dados e IA no mercado financeiro.');
         $('#courses_25_a').text('Ir para o curso');
         
+        $('#courses_26_h4').text('ENGENHARIA DE SOFTWARE PARA MACHINE LEARNING');
+        $('#courses_26_h5').text('Março 2025');
+        $('#courses_26_em').text('DSA - Data Science Academy');
+        $('#courses_26_p1').text('Curso 4/4 da Formação Engenheiro de ML da Data Science Academy');
+        $('#courses_26_p2').html('O curso ensina a integração do desenvolvimento de software com Machine Learning, fornecendo uma base sólida no design de sistemas de ML, engenharia de requisitos e práticas de desenvolvimento de software. Ele inclui dois projetos principais: o desenvolvimento de uma aplicação web com integração de ML e a implantação de uma API para previsão do preço do Bitcoin.');
+        $('#courses_26_a').text('Ir para o curso');
 
         /*************** CONTACT ***************/
         $('#contact_address').text('Endere;o');
