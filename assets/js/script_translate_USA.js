@@ -332,6 +332,14 @@ $(document).ready(function(){
         $('#courses_25_p2').html('The course explores the intersection between Finance and Artificial Intelligence, covering the fundamentals of Financial Engineering and advanced AI techniques applied to the sector. With a modular structure, it spans from basic topics to advanced subjects such as hedging, derivatives, and the use of LLMs. Students develop practical skills through 10 projects based on real-world scenarios, including asset price prediction, sentiment analysis in financial news, fraud detection, and the creation of investor robots. The focus is on equipping professionals to meet the growing demand for data analysis and AI in the financial market.');
         $('#courses_25_a').text('Go to the course');
 
+
+        $('#courses_26_h4').text('SOFTWARE ENGINEERING FOR MACHINE LEARNING');
+        $('#courses_26_h5').text('March 2025');
+        $('#courses_26_em').text('DSA - Data Science Academy');
+        $('#courses_26_p1').text('Course 1/4 of the Data Science Academy ML Engineer Training');
+        $('#courses_26_p2').html('The course teaches the integration of software development with Machine Learning, providing a solid foundation in ML system design, requirements engineering, and software development practices. It includes two main projects: developing a web application with ML integration and deploying an API for Bitcoin price prediction.');
+        $('#courses_26_a').text('Go to the course');
+
         /*************** CONTACT ***************/
         $('#contact_address').text('Address');
         $('#contact_phone').text('Phone');
