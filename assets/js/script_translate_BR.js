@@ -333,9 +333,17 @@ $(document).ready(function(){
         $('#courses_26_h4').text('ENGENHARIA DE SOFTWARE PARA MACHINE LEARNING');
         $('#courses_26_h5').text('Março 2025');
         $('#courses_26_em').text('DSA - Data Science Academy');
-        $('#courses_26_p1').text('Curso 4/4 da Formação Engenheiro de ML da Data Science Academy');
+        $('#courses_26_p1').text('Curso 1/4 da Formação Engenheiro de ML da Data Science Academy');
         $('#courses_26_p2').html('O curso ensina a integração do desenvolvimento de software com Machine Learning, fornecendo uma base sólida no design de sistemas de ML, engenharia de requisitos e práticas de desenvolvimento de software. Ele inclui dois projetos principais: o desenvolvimento de uma aplicação web com integração de ML e a implantação de uma API para previsão do preço do Bitcoin.');
         $('#courses_26_a').text('Ir para o curso');
+
+
+        $('#courses_27_h4').text('DESENVOLVIMENTO E DEPLOY DE MODELOS DE MACHINE LEARNING');
+        $('#courses_27_h5').text('March 2025');
+        $('#courses_27_em').text('DSA - Data Science Academy');
+        $('#courses_27_p1').text('Curso 2/4 da Formação Engenheiro de ML da Data Science Academy');
+        $('#courses_27_p2').html('O Machine Learning amadureceu, e agora o foco está em como implementar e manter modelos em produção. As empresas precisam enfrentar desafios como deploy, reaproveitamento de recursos, monitoramento, detecção de drift e versionamento de modelos. O curso aborda esses tópicos, utilizando Python para protótipos e Rust para performance em produção. Os alunos participarão de diversos projetos práticos, como: construção e deploy de modelos para logística, previsão de churn com RandomForest, deploy na nuvem AWS, geração de texto com LLM a partir de imagens, construção de Feature Store, retreinamento e versionamento de modelos, mitigação de drift e deploy de API em Rust. Esses projetos visam fornecer uma formação completa para enfrentar os desafios atuais em Machine Learning.');
+        $('#courses_27_a').text('Go to the course');
 
         /*************** CONTACT ***************/
         $('#contact_address').text('Endere;o');
