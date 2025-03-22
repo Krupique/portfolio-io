@@ -340,6 +340,14 @@ $(document).ready(function(){
         $('#courses_26_p2').html('The course teaches the integration of software development with Machine Learning, providing a solid foundation in ML system design, requirements engineering, and software development practices. It includes two main projects: developing a web application with ML integration and deploying an API for Bitcoin price prediction.');
         $('#courses_26_a').text('Go to the course');
 
+
+        $('#courses_27_h4').text('DEVELOPMENT AND DEPLOYMENT OF MACHINE LEARNING MODELS');
+        $('#courses_27_h5').text('March 2025');
+        $('#courses_27_em').text('DSA - Data Science Academy');
+        $('#courses_27_p1').text('Course 2/4 of the Data Science Academy ML Engineer Training');
+        $('#courses_27_p2').html('Machine Learning has matured, and now the focus is on how to implement and maintain models in production. Companies need to tackle challenges such as deployment, resource reuse, monitoring, drift detection, and versioning of models. The course addresses these topics, using Python for prototypes and Rust for production performance. Students will participate in various hands-on projects, such as: building and deploying models for logistics, churn prediction with RandomForest, cloud deployment on AWS, text generation with LLM from images, building a Feature Store, retraining and versioning models, drift mitigation, and API deployment in Rust. These projects aim to provide comprehensive training to face current challenges in Machine Learning.');
+        $('#courses_27_a').text('Go to the course');
+
         /*************** CONTACT ***************/
         $('#contact_address').text('Address');
         $('#contact_phone').text('Phone');
