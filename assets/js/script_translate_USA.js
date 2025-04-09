@@ -348,6 +348,13 @@ $(document).ready(function(){
         $('#courses_27_p2').html('Machine Learning has matured, and now the focus is on how to implement and maintain models in production. Companies need to tackle challenges such as deployment, resource reuse, monitoring, drift detection, and versioning of models. The course addresses these topics, using Python for prototypes and Rust for production performance. Students will participate in various hands-on projects, such as: building and deploying models for logistics, churn prediction with RandomForest, cloud deployment on AWS, text generation with LLM from images, building a Feature Store, retraining and versioning models, drift mitigation, and API deployment in Rust. These projects aim to provide comprehensive training to face current challenges in Machine Learning.');
         $('#courses_27_a').text('Go to the course');
 
+        $('#courses_28_h4').text('MLOPS AND MACHINE LEARNING MODEL LIFECYCLE');
+        $('#courses_28_h5').text('April 2025');
+        $('#courses_28_em').text('DSA - Data Science Academy');
+        $('#courses_28_p1').text('Course 3/4 of the Data Science Academy ML Engineer Training');
+        $('#courses_28_p2').html('The course offers a hands-on immersion in the operationalization of Machine Learning projects through MLOps, covering everything from fundamentals such as version control, automation, Feature Store, and CI/CD, to advanced topics like AIOps, LLMOps, Generative AI, and RAG. Throughout the journey, students explore the complete lifecycle of ML models, from conception to deployment, with a focus on building sustainable and scalable solutions. The training includes the creation of inference pipelines, real-time prediction, model monitoring, and automated cloud deployment. The technologies and tools taught include MLflow, Optuna, Feature Store, infrastructure as code (IaC) with Terraform, as well as the integration of frontend, backend, and APIs to operationalize solutions with generative models and LLMs.');
+        $('#courses_28_a').text('Go to the course');
+
         /*************** CONTACT ***************/
         $('#contact_address').text('Address');
         $('#contact_phone').text('Phone');
