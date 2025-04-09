@@ -339,14 +339,21 @@ $(document).ready(function(){
 
 
         $('#courses_27_h4').text('DESENVOLVIMENTO E DEPLOY DE MODELOS DE MACHINE LEARNING');
-        $('#courses_27_h5').text('March 2025');
+        $('#courses_27_h5').text('Março 2025');
         $('#courses_27_em').text('DSA - Data Science Academy');
         $('#courses_27_p1').text('Curso 2/4 da Formação Engenheiro de ML da Data Science Academy');
         $('#courses_27_p2').html('O Machine Learning amadureceu, e agora o foco está em como implementar e manter modelos em produção. As empresas precisam enfrentar desafios como deploy, reaproveitamento de recursos, monitoramento, detecção de drift e versionamento de modelos. O curso aborda esses tópicos, utilizando Python para protótipos e Rust para performance em produção. Os alunos participarão de diversos projetos práticos, como: construção e deploy de modelos para logística, previsão de churn com RandomForest, deploy na nuvem AWS, geração de texto com LLM a partir de imagens, construção de Feature Store, retreinamento e versionamento de modelos, mitigação de drift e deploy de API em Rust. Esses projetos visam fornecer uma formação completa para enfrentar os desafios atuais em Machine Learning.');
-        $('#courses_27_a').text('Go to the course');
+        $('#courses_27_a').text('Ir para o curso');
+
+        $('#courses_28_h4').text('MLOPS E CICLO DE VIDA DO MODELO DE MACHINE LEARNING');
+        $('#courses_28_h5').text('Abril 2025');
+        $('#courses_28_em').text('DSA - Data Science Academy');
+        $('#courses_28_p1').text('Curso 3/4 da Formação Engenheiro de ML da Data Science Academy');
+        $('#courses_28_p2').html('O curso oferece uma imersão prática na operacionalização de projetos de Machine Learning por meio de MLOps, abrangendo tudo, desde fundamentos como controle de versão, automação, Feature Store e CI/CD, até tópicos avançados como AIOps, LLMOps, Generative AI e RAG. Ao longo da jornada, os alunos exploram o ciclo de vida completo dos modelos de ML, da concepção à implantação, com foco na construção de soluções sustentáveis ​​e escaláveis. O treinamento inclui a criação de pipelines de inferência, previsão em tempo real, monitoramento de modelos e implantação automatizada na nuvem. As tecnologias e ferramentas ensinadas incluem MLflow, Optuna, Feature Store, infraestrutura como código (IaC) com Terraform, bem como a integração de frontend, backend e APIs para operacionalizar soluções com modelos generativos e LLMs.');
+        $('#courses_28_a').text('Ir para o curso');
 
         /*************** CONTACT ***************/
-        $('#contact_address').text('Endere;o');
+        $('#contact_address').text('Endereço');
         $('#contact_phone').text('Telefone');
 
 
