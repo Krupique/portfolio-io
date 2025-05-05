@@ -355,6 +355,13 @@ $(document).ready(function(){
         $('#courses_28_p2').html('The course offers a hands-on immersion in the operationalization of Machine Learning projects through MLOps, covering everything from fundamentals such as version control, automation, Feature Store, and CI/CD, to advanced topics like AIOps, LLMOps, Generative AI, and RAG. Throughout the journey, students explore the complete lifecycle of ML models, from conception to deployment, with a focus on building sustainable and scalable solutions. The training includes the creation of inference pipelines, real-time prediction, model monitoring, and automated cloud deployment. The technologies and tools taught include MLflow, Optuna, Feature Store, infrastructure as code (IaC) with Terraform, as well as the integration of frontend, backend, and APIs to operationalize solutions with generative models and LLMs.');
         $('#courses_28_a').text('Go to the course');
 
+        $('#courses_29_h4').text('CI/CD PIPELINES FOR MACHINE LEARNING AND AI OPERATIONS');
+        $('#courses_29_h5').text('April 2025');
+        $('#courses_29_em').text('DSA - Data Science Academy');
+        $('#courses_29_p1').text('Course 4/4 of the Data Science Academy ML Engineer Training');
+        $('#courses_29_p2').html('The course covers Continuous Integration (CI) and Continuous Deployment (CD) practices applied to Machine Learning projects, with a focus on automation, versioning, and pipeline reproducibility. It presents workflows for the automated execution of training, testing, and deployment processes. The training includes eight hands-on projects, progressing from manual processes to advanced automations using tools like SageMaker, Kubernetes, and GitHub Actions—ranging from behavior prediction to testing agents and RAG modules for AI applications.');
+        $('#courses_29_a').text('Go to the course');
+
         /*************** CONTACT ***************/
         $('#contact_address').text('Address');
         $('#contact_phone').text('Phone');
