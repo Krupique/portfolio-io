@@ -86,7 +86,7 @@ $(document).ready(function(){
         $('#education_1_l2').text("Participation in events promoted by the faculty such as Lectures, Short Courses, Hackathons, etc.;");
         $('#education_1_l3').text("Collaboration in several voluntary actions during my academic life.");
 
-        $('#education_2_h1').text("AI ENGINEER TRAINING");
+        $('#education_2_h1').text("AI ENGINEERING TRAINING");
         $('#education_2_em').text("Data Science Academy, Brazil");
         $('#education_2_p1').text("This program provided me with both theoretical and practical knowledge of cutting-edge AI techniques in the fields of Natural Language Processing, Computer Vision and Financial Optimization.");
         $('#education_2_p2').text("Key Learnings:");
@@ -96,6 +96,17 @@ $(document).ready(function(){
         $('#education_2_l4').text("Financial Engineering with AI: Predicting asset prices, detecting fraud, and automating trading strategies using AI.");
         var link_article = '<em><a target="_blank" id="education_2_a1" href="assets/docs/dsa_fei_certificate.pdf">Certificate of Completion</a></em>';
         $('#education_2_p3').html("You can see the certificate here: " + link_article);
+
+        $('#education_3_h1').text("MACHINE LEARNING ENGINEERING TRAINING");
+        $('#education_3_em').text("Data Science Academy, Brazil");
+        $('#education_3_p1').text("This program equipped me with both theoretical and hands-on experience in deploying Machine Learning models and managing their lifecycle using best practices in software engineering, DevOps, and MLOps.");
+        $('#education_3_p2').text("Key Learnings:");
+        $('#education_3_l1').text("Software Engineering for Machine Learning: Designing robust architectures, building APIs, and deploying web applications integrated with ML models using Python and Rust;");
+        $('#education_3_l2').text("Model Deployment and Automation: Implementing versioning, retraining strategies, and building Feature Stores for scalable and reusable pipelines;");
+        $('#education_3_l3').text("MLOps and CI/CD: Automating model training, testing, and deployment workflows using tools like GitHub Actions, Kubernetes, AWS SageMaker, and Lambda Functions;");
+        $('#education_3_l4').text("LLMOps and Generative AI: Deploying and monitoring RAG pipelines and LLMs, and creating test automation flows for intelligent agents and AI modules.");
+        var link_article = '<em><a target="_blank" id="education_3_a1" href="assets/docs/dsa_feml_certificate.pdf">Certificate of Completion</a></em>';
+        $('#education_3_p3').html("You can see the certificate here: " + link_article);
 
 
         /*************** EXPERIENCE ***************/
