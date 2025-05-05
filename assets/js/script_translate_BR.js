@@ -96,6 +96,17 @@ $(document).ready(function(){
         $('#education_2_l4').text("Engenharia financeira com IA: previsão de preços de ativos, detecção de fraudes e automação de estratégias de negociação usando IA.");
         var link_article = '<em><a target="_blank" id="education_2_a1" href="assets/docs/dsa_fei_certificate.pdf">Certificado de Conclusão</a></em>';
         $('#education_2_p3').html("Você pode ver o certificado aqui: " + link_article);
+
+        $('#education_3_h1').text("FORMAÇÃO ENGENHEIRO DE MACHINE LEARNING");
+        $('#education_3_em').text("Data Science Academy, Brazil");
+        $('#education_3_p1').text("Este programa me proporcionou uma formação teórica e prática na implantação de modelos de Machine Learning e na gestão de seu ciclo de vida, utilizando as melhores práticas de engenharia de software, DevOps e MLOps.");
+        $('#education_3_p2').text("Principais Aprendizados:");
+        $('#education_3_l1').text("Engenharia de Software para Machine Learning: Projeto de arquiteturas robustas, construção de APIs e deploy de aplicações web integradas a modelos de ML com Python e Rust;");
+        $('#education_3_l2').text("Deploy e Automação de Modelos: Implementação de versionamento, estratégias de retreinamento e construção de Feature Stores para pipelines escaláveis e reutilizáveis;");
+        $('#education_3_l3').text("MLOps e CI/CD: Automação de fluxos de treinamento, teste e deploy de modelos utilizando ferramentas como GitHub Actions, Kubernetes, AWS SageMaker e Lambda Functions;");
+        $('#education_3_l4').text("LLMOps e IA Generativa: Deploy e monitoramento de pipelines RAG e LLMs, além da criação de fluxos de automação de testes para agentes inteligentes e módulos de IA.");
+        var link_article = '<em><a target="_blank" id="education_3_a1" href="assets/docs/dsa_feml_certificate.pdf">Certificado de Conclusão</a></em>';
+        $('#education_3_p3').html("Você pode ver o certificado aqui: " + link_article);
         
 
         /*************** EXPERIENCE ***************/
