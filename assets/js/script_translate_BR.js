@@ -352,6 +352,13 @@ $(document).ready(function(){
         $('#courses_28_p2').html('O curso oferece uma imersão prática na operacionalização de projetos de Machine Learning por meio de MLOps, abrangendo tudo, desde fundamentos como controle de versão, automação, Feature Store e CI/CD, até tópicos avançados como AIOps, LLMOps, Generative AI e RAG. Ao longo da jornada, os alunos exploram o ciclo de vida completo dos modelos de ML, da concepção à implantação, com foco na construção de soluções sustentáveis ​​e escaláveis. O treinamento inclui a criação de pipelines de inferência, previsão em tempo real, monitoramento de modelos e implantação automatizada na nuvem. As tecnologias e ferramentas ensinadas incluem MLflow, Optuna, Feature Store, infraestrutura como código (IaC) com Terraform, bem como a integração de frontend, backend e APIs para operacionalizar soluções com modelos generativos e LLMs.');
         $('#courses_28_a').text('Ir para o curso');
 
+        $('#courses_29_h4').text('PIPELINES DE CI/CD PARA OPERAÇÕES DE MACHINE LEARNING E IA');
+        $('#courses_29_h5').text('Abril 2025');
+        $('#courses_29_em').text('DSA - Data Science Academy');
+        $('#courses_29_p1').text('Curso 4/4 da Formação Engenheiro de ML da Data Science Academy');
+        $('#courses_29_p2').html('O curso aborda práticas de Integração Contínua (CI) e Implantação Contínua (CD) aplicadas a projetos de Machine Learning, com foco em automação, versionamento e reprodutibilidade de pipelines. São apresentados fluxos de trabalho para execução automática de treinamentos, testes e implantações. A formação inclui oito projetos práticos, que evoluem desde processos manuais até automações avançadas com ferramentas como SageMaker, Kubernetes e GitHub Actions, cobrindo desde previsões de comportamento até testes de agentes e módulos RAG de IA.');
+        $('#courses_29_a').text('Ir para o curso');
+
         /*************** CONTACT ***************/
         $('#contact_address').text('Endereço');
         $('#contact_phone').text('Telefone');
