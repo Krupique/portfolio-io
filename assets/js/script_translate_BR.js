@@ -86,7 +86,7 @@ $(document).ready(function(){
         $('#education_1_l2').text("Participação em eventos promovidos pela faculdade como Palestras, Minicursos, Hackathons, etc..;");
         $('#education_1_l3').text("Colaboração em diversas ações voluntárias durante minha vida acadêmica.");
 
-        $('#education_2_h1').text("FORMAÇÃO ENGENHEIRO DE IA");
+        $('#education_2_h1').text("FORMAÇÃO ENGENHEIRO DE IA (384 HORAS)");
         $('#education_2_em').text("Data Science Academy, Brasil");
         $('#education_2_p1').text("Este programa me proporcionou conhecimento teórico e prático das técnicas mais atuais de IA nas áreas de Processamento de Linguagem Natural, Visão Computacional e Otimização Financeira.");
         $('#education_2_p2').text("Principais Aprendizados:");
@@ -97,7 +97,7 @@ $(document).ready(function(){
         var link_article = '<em><a target="_blank" id="education_2_a1" href="assets/docs/dsa_fei_certificate.pdf">Certificado de Conclusão</a></em>';
         $('#education_2_p3').html("Você pode ver o certificado aqui: " + link_article);
 
-        $('#education_3_h1').text("FORMAÇÃO ENGENHEIRO DE MACHINE LEARNING");
+        $('#education_3_h1').text("FORMAÇÃO ENGENHEIRO DE MACHINE LEARNING (360 HORAS)");
         $('#education_3_em').text("Data Science Academy, Brazil");
         $('#education_3_p1').text("Este programa me proporcionou uma formação teórica e prática na implantação de modelos de Machine Learning e na gestão de seu ciclo de vida, utilizando as melhores práticas de engenharia de software, DevOps e MLOps.");
         $('#education_3_p2').text("Principais Aprendizados:");
